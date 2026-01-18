@@ -1,0 +1,89 @@
+{
+  "training_data": [
+    {
+      "instruction": "What is IVR and how does it work?",
+      "input": "",
+      "output": "IVR (Interactive Voice Response) is a telephony technology where someone uses a touch-tone telephone to interact with a database to acquire information or enter data without requiring human interaction. The user dials a preassigned number, gets routed to a computer system that plays prerecorded voice menus, and responds using DTMF dial pad or voice responses. The computer analyzes the response and plays appropriate messages or provides requested information."
+    },
+    {
+      "instruction": "When was IVR technology introduced in Nepal Telecom and for what purpose?",
+      "input": "",
+      "output": "IVR technology was introduced to Nepal Telecom in 2004 for SEE Result Enquiry service. Class 11 and 12 Result Enquiry services were also implemented."
+    },
+    {
+      "instruction": "What are the IVR services provided by Nepal Telecom?",
+      "input": "",
+      "output": "Nepal Telecom provides these IVR services:\n1. SEE Result Enquiry (1600)\n2. Class 11 and 12 Result Enquiry (1601)\n3. SEE Supplementary Result Enquiry (1600)\n4. TU Results (1602)\n5. Telephone Fault Booking (198)\n6. Lineman Fault Down (192)\n7. PSTN Bill Enquiry (1606)\n8. VOIP Call Complain (188)\n9. FTTH Demand (198)"
+    },
+    {
+      "instruction": "What is the purpose of IVR 198 service?",
+      "input": "",
+      "output": "IVR 198 is Nepal Telecom's Automatic Telephone Complaint Handling Service. Customers can directly book fault complaints through this service without human operator intervention, available 24x7."
+    },
+    {
+      "instruction": "What is the purpose of IVR 192 service?",
+      "input": "",
+      "output": "IVR 192 is Nepal Telecom's Automatic Fault Retrieve and Down Handling Service. Outdoor technicians and linemen can retrieve fault complaints and fault down complained numbers through this service, dispatching complaints to corresponding outdoor team members."
+    },
+    {
+      "instruction": "What is the PSTN Bill Enquiry Service and how does it work?",
+      "input": "",
+      "output": "PSTN Bill Enquiry Service (1606) uses CLI Base (Calling Line Identification) through IVR connecting to CBS database system. Customers can find details of monthly bill amount, pending dues, and payment due dates."
+    },
+    {
+      "instruction": "What are the charges for Nepal Telecom's IVR services?",
+      "input": "",
+      "output": "Charges vary by service:\n- SEE Result Enquiry (1600): 1 pulse @ 10 sec\n- Class 11 and 12 Result Enquiry (1601): 1 pulse @ 10 sec\n- SEE Supplementary Result Enquiry (1600): 1 pulse @ 10 sec\n- TU Results (1602): 1 pulse @ 10 sec\n- Telephone Fault Booking (198): Free\n- Lineman Fault Down (192): Free\n- PSTN Bill Enquiry (1606): Local charge\n- VOIP Call Complain (188): Free\n- FTTH Demand (198): Rs 2.00 per call (1 call = 120 seconds)"
+    },
+    {
+      "instruction": "What benefits does IVR provide to telecom operators?",
+      "input": "",
+      "output": "For telecom operators, IVR provides:\n1. Changed Number Announcement\n2. Automatic Payment Reminder System\n3. Automatic Telephone Complaint Handling System\n4. Automatic Fault Retrieve and Down Handling System\n5. Message Broadcasting Service\n6. Duplicate Bill by Fax/Email"
+    },
+    {
+      "instruction": "How can government organizations use IVR technology?",
+      "input": "",
+      "output": "Government organizations can use IVR for:\n1. Taxation and Revenue:\n   - PAN Number validity and payment information\n   - Income tax information and status tracking\n   - Payment and billing information\n2. Elections:\n   - Candidate details and places\n   - Request polling place address and centers\n   - Election results"
+    },
+    {
+      "instruction": "How can banks use IVR technology?",
+      "input": "",
+      "output": "Banks can use IVR for:\n1. Account Balance Inquiry\n2. Transaction information and history"
+    },
+    {
+      "instruction": "How can airlines use IVR technology?",
+      "input": "",
+      "output": "Airlines can use IVR for:\n1. Flight departure/arrival information\n2. Airline terminal information\n3. Airport rules and regulations\n4. General airport information\n5. Frequent flier program information"
+    },
+    {
+      "instruction": "What are some general public uses of IVR technology?",
+      "input": "",
+      "output": "General public can use IVR for:\n1. Event Based Polling (Miss Nepal, Nepali Tara, etc.)\n2. Informational Services:\n   - National and International News/Breaking News\n   - Weather Forecast\n   - Daily/Weekly Horoscope\n   - Sporting activities information"
+    },
+    {
+      "instruction": "What is the occupancy period for SEE Result Enquiry service?",
+      "input": "",
+      "output": "SEE Result Enquiry service (1600) is available for 4 weeks in a year."
+    },
+    {
+      "instruction": "What is the occupancy period for Class 11 and 12 Result Enquiry?",
+      "input": "",
+      "output": "Class 11 and 12 Result Enquiry service (1601) is available for 6 results in a year (2 weeks for each result)."
+    },
+    {
+      "instruction": "When were the fault-related IVR services launched?",
+      "input": "",
+      "output": "Telephone Fault Booking (198) was launched in September 2006, and Lineman Fault Down (192) was launched in November 2006."
+    },
+    {
+      "instruction": "What is the VOIP call complaint service and when was it introduced?",
+      "input": "",
+      "output": "VOIP call complaint service (188) allows customers to complain about telephone numbers providing illegal services to incoming international calls. It was introduced in December 2007."
+    },
+    {
+      "instruction": "What is the FTTH Demand service and its charges?",
+      "input": "",
+      "output": "FTTH Demand service uses dial code 198 and charges Rs 2.00 per call, where 1 call equals 120 seconds."
+    }
+  ]
+}

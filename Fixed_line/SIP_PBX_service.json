@@ -1,0 +1,51 @@
+{
+    "service_name": "SIP PBX Service",
+    "description": "Nepal Telecom introduces its SIP PBX service to manage multiple telephone numbers using single telephone line.",
+    "details": "Nepal Telecom introduces SIP PBX service to its corporate customers to manage multiple telephone lines using single telephone number.",
+    "benefits": [
+        "Single number can handle multiple calls (30 to 90 calls) which is connected to its end customer by optical fiber link.",
+        "Line will not be busy as it can handle multiple calls.",
+        "Use of only one optical cable brings beauty in the office and its interconnection.",
+        "Better solution for those customers who use multiple telephone line to manage their customer care.",
+        "Suitable for call center, corporate office, customer support point and hotels, colleges, banks etc.",
+        "Auto call forwarding upon down of SIP PBX service to some already specified number.",
+        "SIP numbers can be used as terminal number for Toll-Free",
+        "Geographical Redundancy"
+    ],
+    "advantages": [
+        "Easy to manage call and telephone lines at end office.",
+        "Single contact number for the office.",
+        "End user can use the rich features like call management, auto attendants and IVR based service."
+    ],
+    "support_email": "sippbx@ntc.net.np",
+    "faqs": [
+        {
+            "question": "How SIP PBX is connected to end customer ?",
+            "answer": "SIP PBX service is given via intranet service of Nepal Telecom. Service is connected to end customer via fiber link through the nearest node of Nepal Telecom."
+        },
+        {
+            "question": "I don’t want to connect via intranet; can I get service via internet ?",
+            "answer": "No, Nepal Telecom doesn’t provide SIP PBX service via internet, dedicated fiber connection between customer end and Nepal Telecom’s is required."
+        },
+        {
+            "question": "What if the fiber link breaks ?",
+            "answer": "Most of the fiber connection are via underground fiber link, however aerial fiber is pulled from nearest node from customer end. If fiber links breaks SIP PBX service will be down. So redundant fiber link can be provided upon customer request. Nominal charge will be added for the facility of redundant link. Auto Call forwarding features can be added upon customers request if SIP PBX service is down, customer should provide their forwarding number (only Nepal Telecom numbers)."
+        },
+        {
+            "question": "Can I get service outside Kathmandu Valley ?",
+            "answer": "Yes, Nepal Telecom's SIP PBX service can be provided in all 77 districts upon customer’s request."
+        },
+        {
+            "question": "What is the number format for NT SIP PBX service ?",
+            "answer": "Number format for SIP PBX service is 01-5970XXX (for Kathmandu) and Area Code – 5970XX (Outside Kathmandu Valley)"
+        },
+        {
+            "question": "Where should I contact to get the service ?",
+            "answer": "You could contact nearest telecom office to get the service. If you have any query regarding the SIP PBX service you contact at: 01-5321244 (Telecom Sundhara)"
+        },
+        {
+            "question": "Will telecom provide the SIP PBX and all Customer-Premises Equipment required for service ?",
+            "answer": "No, Telecom will only provide the service and fiber connection to end customer. Customer need to buy the SIP PBX hardware required for them."
+        }
+    ]
+}

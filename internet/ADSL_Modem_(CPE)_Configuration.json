@@ -1,0 +1,112 @@
+{
+  "service": {
+    "service_name": "ADSL Modem (CPE) Configuration",
+    "provider": "Nepal Telecom (NT)",
+    "description": "Guide for configuring an ADSL 2+ modem to connect to Nepal Telecom's broadband service. The modem can operate in either Routing or Bridge mode."
+  },
+  "prerequisites": {
+    "general_notes": [
+      "Clients must read their specific CPE (modem) manual thoroughly for details like its unique management IP address, admin username, and password[citation:1].",
+      "The customer must arrange and be responsible for installing, configuring, and maintaining their own CPE (ADSL 2+ modem with splitter) from the local market[citation:5]."
+    ],
+    "required_information": {
+      "isp_credentials": {
+        "source": "Provided by Nepal Telecom after successful subscription application and payment[citation:5].",
+        "items": ["Username", "Password"]
+      },
+      "modem_access_details": {
+        "source": "Found in the modem's manual or on a label on the device itself.",
+        "items": [
+          "Web Management Interface IP Address (common examples: 192.168.1.1, 192.168.0.1)",
+          "Admin Username",
+          "Admin Password"
+        ]
+      },
+      "important_notice": "If your phone line has a Home Metering (16 KHz) facility, you must mention this when subscribing to ADSL service. You will need to install a splitter that supports Home Metering, otherwise, this facility will stop working after ADSL is activated[citation:1][citation:5]."
+    }
+  },
+  "accessing_modem_interface": {
+    "step": "Open a web browser (like Chrome, Firefox, Edge) on a computer connected to the modem via Ethernet cable or Wi-Fi[citation:4][citation:6].",
+    "action": "In the browser's address bar, type the modem's IP address (e.g., `http://192.168.1.1/`) and press Enter[citation:1][citation:4].",
+    "login": "Enter the modem's admin username and password when prompted[citation:1]."
+  },
+  "configuration_modes": [
+    {
+      "mode": "Routing Mode",
+      "purpose": "The modem itself establishes the connection to the internet using the NT-provided credentials. This allows multiple computers/devices to share the single internet connection through the modem's built-in router[citation:1].",
+      "configuration_parameters": [
+        {
+          "parameter": "VPI",
+          "value": "8[citation:1]"
+        },
+        {
+          "parameter": "VCI",
+          "value": "81[citation:1]"
+        },
+        {
+          "parameter": "Encapsulation",
+          "value": "PPPoE/LLC[citation:1]"
+        },
+        {
+          "parameter": "Authentication",
+          "value": "Auto[citation:1]"
+        },
+        {
+          "parameter": "Username",
+          "value": "Provided by NT[citation:1]"
+        },
+        {
+          "parameter": "Password",
+          "value": "Provided by NT[citation:1]"
+        }
+      ],
+      "notes": [
+        "No dial-up connection needs to be created on the computer. The modem will connect automatically[citation:1].",
+        "After saving settings, the connection should establish. Check the modem's status page for increasing Rx/Tx data counters[citation:1]."
+      ]
+    },
+    {
+      "mode": "Bridge Mode",
+      "purpose": "The modem acts as a simple bridge. The connection (dial-up) must be established from a single computer using the NT-provided username and password[citation:1].",
+      "configuration_parameters": [
+        {
+          "parameter": "Mode Selection",
+          "value": "Select 'Bridge Mode'[citation:1]"
+        },
+        {
+          "parameter": "Encapsulation",
+          "value": "LLC[citation:1]"
+        },
+        {
+          "parameter": "VPI",
+          "value": "8[citation:1]"
+        },
+        {
+          "parameter": "VCI",
+          "value": "81[citation:1]"
+        },
+        {
+          "parameter": "Authentication",
+          "value": "Auto[citation:1]"
+        }
+      ],
+      "notes": "After configuring the modem in Bridge Mode, you must set up a PPPoE dial-up connection on your computer using the NT-provided username and password."
+    }
+  ],
+  "troubleshooting": {
+    "line_status_check": {
+      "step": "After correctly connecting the modem to the phone line via the splitter, observe the ADSL/DSL indicator light on the modem[citation:1].",
+      "expected_outcome": "The light should blink initially and then glow continuously, indicating a good line sync[citation:1].",
+      "action_if_failed": "If the light does not glow continuously, check that the phone line is correctly plugged into the 'ADSL' or 'Line' port on the splitter (not the 'Phone' port). If the problem persists, contact your nearest Nepal Telecom exchange office to report a line problem[citation:1]."
+    },
+    "additional_tips": [
+      "Incorrect wiring is a common issue. Ensure your phone line enters the splitter first. One output (often labeled 'ADSL' or 'Modem') goes to the modem, and the other ('Phone') goes to your telephone[s][citation:7].",
+      "If you can access the modem's settings page but the internet does not work after configuration, double-check the VPI/VCI values, encapsulation type, and your username/password for typos[citation:6].",
+      "For persistent internet issues not solved by configuration, you can register a complaint by calling Nepal Telecom's customer service at `198`[citation:7]."
+    ]
+  },
+  "support_contacts": {
+    "customer_service": "198[citation:7]",
+    "general_advice": "Contact the nearest Nepal Telecom office from where your telephone line is connected[citation:5]."
+  }
+}

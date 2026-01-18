@@ -1,0 +1,742 @@
+{
+    "service_category": "FTTH Tariff",
+    "service_description": "The Data, Voice, NTTV Service provided through optical Fiber (FTTH) by Nepal Telecom has the following 4 Packages as per Internet/ Telephone/ NTTV subscription and price are set accordingly",
+    "package_types": [
+      "INDIVIDUAL PACKAGES",
+      "PREMIUM PACKAGES",
+      "CORPORATE PACKAGES",
+      "WI-FI 6 PACKAGES"
+    ],
+    "individual_packages": {
+      "1_multiyear_internet_only_pack": {
+        "title": "MULTI-YEAR NT FIBER (FTTH) Internet Only Pack",
+        "table_data": [
+          {
+            "ftth_package": "50 Mbps",
+            "2_year_tariff": "14,999/-",
+            "mobile_data_per_day": "600 MB"
+          },
+          {
+            "ftth_package": "100 Mbps",
+            "2_year_tariff": "20,199/-",
+            "mobile_data_per_day": "800 MB"
+          },
+          {
+            "ftth_package": "150 Mbps",
+            "2_year_tariff": "22,599/-",
+            "mobile_data_per_day": "900 MB"
+          },
+          {
+            "ftth_package": "200 Mbps",
+            "2_year_tariff": "28,399/-",
+            "mobile_data_per_day": "1000 MB"
+          }
+        ],
+        "notes": [
+          "No Installation Charge",
+          "CPE is FREE of Cost",
+          "100 m. fiber cable is FREE of Cost",
+          "Yearly 3000 min. NT-NT telephone voice call is included in the above packages",
+          "For New Telephone voice connection, an Ownership Tax of Rs. 665 along with standard voice rates apply",
+          "Warranty Period: 2 years"
+        ]
+      },
+      "2_internet_telephone_package": {
+        "title": "NT Fiber Internet + Telephone Package",
+        "table_data": [
+          {
+            "ftth_package": "50 Mbps",
+            "1_month": "815",
+            "3_months": "2,350",
+            "12_months": "8,499",
+            "mobile_data_per_day": "600 MB"
+          },
+          {
+            "ftth_package": "75 Mbps",
+            "1_month": "1,010",
+            "3_months": "2,900",
+            "12_months": "10,499",
+            "mobile_data_per_day": "700 MB"
+          },
+          {
+            "ftth_package": "100 Mbps",
+            "1_month": "1,150",
+            "3_months": "3,200",
+            "12_months": "11,499",
+            "mobile_data_per_day": "800 MB"
+          },
+          {
+            "ftth_package": "150 Mbps",
+            "1_month": "1,250",
+            "3_months": "3,600",
+            "12_months": "12,999",
+            "mobile_data_per_day": "900 MB"
+          },
+          {
+            "ftth_package": "200 Mbps",
+            "1_month": "1,600",
+            "3_months": "4,550",
+            "12_months": "16,499",
+            "mobile_data_per_day": "1000 MB"
+          },
+          {
+            "ftth_package": "50 Mbps for Existing Telephone Voice only subscribers (yearly)",
+            "12_months": "7,499",
+            "mobile_data_per_day": "600 MB"
+          }
+        ],
+        "notes": [
+          "CPE cost is not included in the Monthly and Quarterly package",
+          "Monthly 250 min., Quarterly 750 min., and Yearly 3000 min. NT-NT Call is included in the above packages",
+          "One Time Installation Charge of Rs.500 & Ownership Tax of Rs.665 not included in the aforementioned price",
+          "FuP (Fair Usage Policy) is applicable daily"
+        ]
+      },
+      "3_internet_nttv_telephone_package": {
+        "sections": [
+          {
+            "title": "NT Fiber with Basic NTTV Channels (Monthly & Quarterly)",
+            "table_data": [
+              {
+                "ftth_package": "50 Mbps + Basic NTTV Channels + 250 min./month Telephone calls (NT-NT)",
+                "1_month": "1,065",
+                "3_months": "3,100"
+              },
+              {
+                "ftth_package": "100 Mbps + Basic NTTV Channels + 250 min./month Telephone calls (NT-NT)",
+                "1_month": "1,400",
+                "3_months": "3,950"
+              },
+              {
+                "ftth_package": "150 Mbps + Basic NTTV Channels + 250 min./month Telephone calls (NT-NT)",
+                "1_month": "1,500",
+                "3_months": "4,350"
+              },
+              {
+                "ftth_package": "200 Mbps + Basic NTTV Channels + 250 min./month Telephone calls (NT-NT)",
+                "1_month": "1,850",
+                "3_months": "5,300"
+              }
+            ]
+          },
+          {
+            "title": "NT Fiber with Premium NTTV Channels & Telephone Calls (Monthly & Quarterly)",
+            "table_data": [
+              {
+                "ftth_package": "50 Mbps + Premium NTTV Channels + 250 min./month Telephone calls (NT-NT)",
+                "1_month": "1,285",
+                "3_months": "3,760"
+              },
+              {
+                "ftth_package": "100 Mbps + Premium NTTV Channels + 250 min./month Telephone calls (NT-NT)",
+                "1_month": "1,620",
+                "3_months": "4,610"
+              },
+              {
+                "ftth_package": "150 Mbps + Premium NTTV Channels + 250 min./month Telephone calls (NT-NT)",
+                "1_month": "1,720",
+                "3_months": "5,010"
+              },
+              {
+                "ftth_package": "200 Mbps + Premium NTTV Channels + 250 min./month Telephone calls (NT-NT)",
+                "1_month": "2,070",
+                "3_months": "5,960"
+              }
+            ]
+          },
+          {
+            "title": "NT Fiber with Basic NTTV Channels & Telephone Calls(Yearly)",
+            "table_data": [
+              {
+                "ftth_package": "50 Mbps Internet + Basic NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "10,499",
+                "mobile_data_per_day": "600 MB"
+              },
+              {
+                "ftth_package": "100 Mbps Internet + Basic NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "13,499",
+                "mobile_data_per_day": "800 MB"
+              },
+              {
+                "ftth_package": "150 Mbps Internet + Basic NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "14,999",
+                "mobile_data_per_day": "900 MB"
+              },
+              {
+                "ftth_package": "200 Mbps Internet + Basic NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "18,499",
+                "mobile_data_per_day": "1000 MB"
+              }
+            ]
+          },
+          {
+            "title": "NT Fiber with Premium NTTV Channels & Telephone Calls (Yearly)",
+            "table_data": [
+              {
+                "ftth_package": "50 Mbps Internet + Premium NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "12,000",
+                "mobile_data_per_day": "600 MB"
+              },
+              {
+                "ftth_package": "100 Mbps Internet + Premium NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "14,999",
+                "mobile_data_per_day": "800 MB"
+              },
+              {
+                "ftth_package": "150 Mbps Internet + Premium NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "16,499",
+                "mobile_data_per_day": "900 MB"
+              },
+              {
+                "ftth_package": "200 Mbps Internet + Premium NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "19,999",
+                "mobile_data_per_day": "1000 MB"
+              }
+            ]
+          },
+          {
+            "title": "NT Fiber with Basic & Premium NTTV Channels & Telephone Calls (RENEWAL)",
+            "table_data": [
+              {
+                "ftth_package": "50 Mbps Internet + Basic NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "9,499",
+                "mobile_data_per_day": "600 MB"
+              },
+              {
+                "ftth_package": "100 Mbps Internet + Basic NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "12,499",
+                "mobile_data_per_day": "800 MB"
+              },
+              {
+                "ftth_package": "150 Mbps Internet + Basic NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "13,999",
+                "mobile_data_per_day": "900 MB"
+              },
+              {
+                "ftth_package": "200 Mbps Internet + Basic NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "17,499",
+                "mobile_data_per_day": "1000 MB"
+              },
+              {
+                "ftth_package": "50 Mbps Internet + Premium NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "10,999",
+                "mobile_data_per_day": "600 MB"
+              },
+              {
+                "ftth_package": "100 Mbps Internet + Premium NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "13,999",
+                "mobile_data_per_day": "800 MB"
+              },
+              {
+                "ftth_package": "150 Mbps Internet + Premium NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "15,999",
+                "mobile_data_per_day": "900 MB"
+              },
+              {
+                "ftth_package": "200 Mbps Internet + Premium NTTV Channels + 3000 min. NT-NT Telephone calls",
+                "12_months": "18,999",
+                "mobile_data_per_day": "1000 MB"
+              }
+            ]
+          }
+        ],
+        "general_notes": [
+          "For new subscription of monthly & quarterly packages, CPE & STB to be purchased separately",
+          "One Time Installation Charge of Rs.500 & Ownership Tax of Rs.665 not included in the aforementioned price",
+          "For additional NTTV connection, STB charge of Rs.3230 per box and standard rate is applicable for basic & premium channels respectively",
+          "FuP (Fair Usage Policy) is applicable daily"
+        ]
+      },
+      "4_package_for_existing_voice_only_subscribers": {
+        "basic_nttv_package": {
+          "title": "Basic NTTV Package for existing voice-only customers",
+          "table_data": [
+            {
+              "package": "Basic NTTV+ Telephone voice for existing voice-only customers",
+              "1_month": "498.60",
+              "3_months": "1,495.80",
+              "12_months": "5,983.20"
+            }
+          ]
+        },
+        "premium_nttv_package": {
+          "title": "Premium NTTV Package for existing voice-only customers",
+          "table_data": [
+            {
+              "package": "Premium NTTV+ Telephone voice for existing voice-only customers",
+              "1_month": "718.60",
+              "3_months": "2,155.80",
+              "12_months": "7,303.20"
+            }
+          ]
+        },
+        "notes": [
+          "For new subscriptions, STB to be purchased separately",
+          "For additional NTTV connection, STB charge of Rs.3230 per box and standard rate is applicable for basic & premium channels respectively"
+        ]
+      },
+      "fup_for_individual_package": {
+        "title": "FUP for NT Fiber Individual Package",
+        "table_data": [
+          {
+            "ftth_package": "50 Mbps",
+            "fup_per_day": "50 GB",
+            "throttling_speed": "5 Mbps"
+          },
+          {
+            "ftth_package": "75 Mbps",
+            "fup_per_day": "75 GB",
+            "throttling_speed": "10 Mbps"
+          },
+          {
+            "ftth_package": "100 Mbps",
+            "fup_per_day": "100 GB",
+            "throttling_speed": "15 Mbps"
+          },
+          {
+            "ftth_package": "150 Mbps",
+            "fup_per_day": "150 GB",
+            "throttling_speed": "20 Mbps"
+          },
+          {
+            "ftth_package": "200 Mbps",
+            "fup_per_day": "200 GB",
+            "throttling_speed": "50 Mbps"
+          }
+        ],
+        "note": "Users subscribing to Premium FTTH Package, FTTH with IPTV Combo package, and Corporate package with bandwidth 100 Mbps - 1Gbps shall be provided with 1 (one) Public IP address without any extra cost if demanded by the customer."
+      },
+      "mobile_data_on_yearly_subscription": {
+        "title": "Mobile Data on Subscription of Yearly NT Fiber Package",
+        "table_data": [
+          {
+            "yearly_ftth_package": "50 Mbps",
+            "mobile_data_per_day": "300 MB",
+            "bonus_per_day": "300 MB"
+          },
+          {
+            "yearly_ftth_package": "75 Mbps",
+            "mobile_data_per_day": "350 MB",
+            "bonus_per_day": "350 MB"
+          },
+          {
+            "yearly_ftth_package": "100 Mbps",
+            "mobile_data_per_day": "400 MB",
+            "bonus_per_day": "400 MB"
+          },
+          {
+            "yearly_ftth_package": "150 Mbps",
+            "mobile_data_per_day": "450 MB",
+            "bonus_per_day": "450 MB"
+          },
+          {
+            "yearly_ftth_package": "200 Mbps",
+            "mobile_data_per_day": "500 MB",
+            "bonus_per_day": "500 MB"
+          }
+        ]
+      }
+    },
+    "premium_packages": {
+      "1_premium_internet_only_package": {
+        "title": "Premium Internet-Only Package",
+        "table_data": [
+          {
+            "ftth_package": "100 Mbps",
+            "1_month": "5,900",
+            "3_months": "16,200",
+            "12_months": "32,199",
+            "mobile_data_per_day": "500 MB"
+          },
+          {
+            "ftth_package": "150 Mbps",
+            "1_month": "7,500",
+            "3_months": "19,700",
+            "12_months": "39,999",
+            "mobile_data_per_day": "600 MB"
+          },
+          {
+            "ftth_package": "200 Mbps",
+            "1_month": "9,600",
+            "3_months": "24,500",
+            "12_months": "45,999",
+            "mobile_data_per_day": "700 MB"
+          }
+        ],
+        "notes": [
+          "FuP (Fair Usage Policy) not applicable",
+          "For new subscriptions, CPE to be purchased separately",
+          "One Time Installation Charge of Rs. 500 not included in the above prices",
+          "For New Telephone voice connection, an OT charge of Rs.665 along with standard voice rates apply"
+        ]
+      },
+      "2_premium_internet_basic_nttv_package": {
+        "title": "Premium Internet + Basic NTTV Package",
+        "table_data": [
+          {
+            "ftth_package": "100 Mbps + Basic NTTV Channels",
+            "1_month": "6,150",
+            "3_months": "16,950",
+            "12_months": "35,199",
+            "mobile_data_per_day": "500 MB"
+          },
+          {
+            "ftth_package": "150 Mbps + Basic NTTV Channels",
+            "1_month": "7,750",
+            "3_months": "20,450",
+            "12_months": "42,999",
+            "mobile_data_per_day": "600 MB"
+          },
+          {
+            "ftth_package": "200 Mbps + Basic NTTV Channels",
+            "1_month": "9,850",
+            "3_months": "25,250",
+            "12_months": "48,999",
+            "mobile_data_per_day": "700 MB"
+          }
+        ]
+      },
+      "3_premium_internet_premium_nttv_package": {
+        "title": "Premium Internet + Premium NTTV Package",
+        "table_data": [
+          {
+            "ftth_package": "100 Mbps + Premium NTTV Channels",
+            "1_month": "6,370",
+            "3_months": "17,610",
+            "12_months": "36,519",
+            "mobile_data_per_day": "500 MB"
+          },
+          {
+            "ftth_package": "150 Mbps + Premium NTTV Channels",
+            "1_month": "7,970",
+            "3_months": "21,110",
+            "12_months": "44,319",
+            "mobile_data_per_day": "600 MB"
+          },
+          {
+            "ftth_package": "200 Mbps + Premium NTTV Channels",
+            "1_month": "10,070",
+            "3_months": "25,910",
+            "12_months": "50,319",
+            "mobile_data_per_day": "700 MB"
+          }
+        ],
+        "notes": [
+          "For new subscription, CPE & STB to be purchased separately",
+          "One Time Installation Charge of Rs.500 not included in the above prices",
+          "For New Telephone voice connection, OT charge of Rs.665 along with standard voice rates apply",
+          "For additional NTTV connection, STB charge of Rs.3,230 per box and standard rate is applicable for basic & premium channels respectively"
+        ]
+      }
+    },
+    "corporate_packages": {
+      "a_xgpon_internet_package": {
+        "title": "XGPON Internet Package",
+        "table_data": [
+          {
+            "package_name": "2 Gbps (Premium)",
+            "monthly_resources": "Unlimited NT-NT, 800Min Off-Net Call, 3 TB per day: Throttling speed: 500 Mbps",
+            "tariff": "179,000"
+          },
+          {
+            "package_name": "1 Gbps (Premium)",
+            "monthly_resources": "Unlimited NT-NT, 500Min Off-Net Call, 2 TB per day: Throttling speed: 200 Mbps",
+            "tariff": "1,29,000"
+          },
+          {
+            "package_name": "1 Gbps (Basic)",
+            "monthly_resources": "Unlimited NT-NT, 500Min Off-Net Call, 1 TB per day: Throttling speed: 200 Mbps",
+            "tariff": "99,691"
+          },
+          {
+            "package_name": "500 Mbps (Basic)",
+            "monthly_resources": "Unlimited NT-NT, 350 Min Off-Net Call, 0.5 TB per day: Throttling speed: 100 Mbps",
+            "tariff": "69,691"
+          }
+        ],
+        "notes": [
+          "CPE cost of Rs.6,000 is not included in the monthly package",
+          "One Time Installation Charge of Rs.500 not included in the above prices",
+          "For New Telephone voice connection, OT charge of Rs.665 along with standard voice rates apply",
+          "FuP (Fair Usage Policy) is applicable daily"
+        ]
+      },
+      "b_xgpon_internet_basic_iptv_package": {
+        "title": "XGPON Internet + Basic IPTV Package",
+        "table_data": [
+          {
+            "package": "XGPON 1 Gbps (Premium)",
+            "yearly_xgpon_tariff": "1,29,000",
+            "basic_iptv": "3,000",
+            "set_top_box": "3,230",
+            "total_tariff": "1,35,230",
+            "mobile_data": "1 GB"
+          },
+          {
+            "package": "XGPON 2Gbps (Premium)",
+            "yearly_xgpon_tariff": "1,79,000",
+            "basic_iptv": "3,000",
+            "set_top_box": "3,230",
+            "total_tariff": "1,85,230",
+            "mobile_data": "1.5 GB"
+          }
+        ]
+      },
+      "c_xgpon_internet_premium_iptv_package": {
+        "title": "XGPON Internet + Premium IPTV Package",
+        "table_data": [
+          {
+            "package": "XGPON 1Gbps (Premium)",
+            "yearly_xgpon_tariff": "1,29,000",
+            "premium_iptv": "4,320",
+            "set_top_box": "3,230",
+            "total_tariff": "1,36,550",
+            "mobile_data": "1 GB"
+          },
+          {
+            "package": "XGPON 2Gbps (Premium)",
+            "yearly_xgpon_tariff": "1,79,000",
+            "premium_iptv": "4,320",
+            "set_top_box": "3,230",
+            "total_tariff": "1,86,550",
+            "mobile_data": "1.5 GB"
+          }
+        ],
+        "notes": [
+          "This package is applicable for Organization/ Corporate Office but not applicable for any service providers.",
+          "The CPE cost is included in above tariff."
+        ]
+      },
+      "d_xgpon_internet_premium_nttv_telephone_package": {
+        "title": "XGPON Internet + Premium NTTV + Telephone Package",
+        "table_data": [
+          {
+            "ftth_package": "1 Gbps+Premium NTTV Channels+1 Public IP+1 Telephone",
+            "voice_resources": "Unlimited NT-NT & 500 min off-net",
+            "12_months": "1,07,241",
+            "mobile_data_per_day": "1 GB"
+          },
+          {
+            "ftth_package": "500 Mpbs+Premium NTTV Channels+1 Public IP+1 Telephone",
+            "voice_resources": "Unlimited NT-NT & 350min off-net",
+            "12_months": "77,241",
+            "mobile_data_per_day": "800 MB"
+          }
+        ],
+        "notes": [
+          "One Time Installation Charge of Rs.500 & Ownership Tax of Rs.665 not included in the above prices",
+          "For additional NTTV connection, STB charge of Rs. 3,230 per box and standard rate is applicable for basic & premium channels respectively",
+          "FUP (Fair Usage Policy) is applicable daily"
+        ]
+      },
+      "e_corporate_tv_with_basic_package": {
+        "title": "Corporate TV with Basic Package",
+        "table_data": [
+          {
+            "corporate_basic_tv_slab": "4 to 10",
+            "stb_one_time_cost": "2938",
+            "3_months_basic_pack_tariff": "750",
+            "12_months_basic_pack_tariff": "3000",
+            "minimum_internet_package": "100 Mbps"
+          },
+          {
+            "corporate_basic_tv_slab": "11 & more",
+            "stb_one_time_cost": "2825",
+            "3_months_basic_pack_tariff": "750",
+            "12_months_basic_pack_tariff": "3000",
+            "minimum_internet_package": "500Mbps/1Gbps"
+          }
+        ]
+      },
+      "f_corporate_tv_with_premium_package": {
+        "title": "Corporate TV with Premium Package",
+        "table_data": [
+          {
+            "premium_tv_slab": "4 to 10",
+            "stb_one_time_cost": "2938",
+            "3_months_premium_pack_tariff": "1080",
+            "12_months_premium_pack_tariff": "4320",
+            "minimum_internet_package": "100 Mbps"
+          },
+          {
+            "premium_tv_slab": "11 & more",
+            "stb_one_time_cost": "2825",
+            "3_months_premium_pack_tariff": "900",
+            "12_months_premium_pack_tariff": "3600",
+            "minimum_internet_package": "500Mbps/1Gbps"
+          }
+        ]
+      },
+      "fup_for_xgpon_corporate_internet_package": {
+        "title": "FUP for XGPON Corporate Internet Package",
+        "table_data": [
+          {
+            "ftth_package": "1 Gbps",
+            "fup_per_day": "1 TB",
+            "throttling_speed": "200 Mbps"
+          },
+          {
+            "ftth_package": "500 Mbps",
+            "fup_per_day": "0.5 TB",
+            "throttling_speed": "100 Mbps"
+          }
+        ]
+      }
+    },
+    "one_time_charges": {
+      "title": "One-Time Charge of NT Fiber Service",
+      "table_data": [
+        {
+          "particulars": "NT Fiber CPE (Router) cost Single Band",
+          "price": "2825",
+          "remarks": "Free 1 FTTH Router for New Connection with 1 Year Internet Package"
+        },
+        {
+          "particulars": "NT Fiber CPE (Router) cost Dual Band",
+          "price": "3710",
+          "remarks": "Free 1 FTTH Router for New Connection with 1 Year Internet Package"
+        },
+        {
+          "particulars": "NTTV Set Top Box",
+          "price": "3230",
+          "remarks": ""
+        },
+        {
+          "particulars": "Drop Fiber (per meter)",
+          "price": "10",
+          "remarks": "Up to 100 meters free for New Connection"
+        }
+      ]
+    },
+    "wifi_6_packages": {
+      "a_wifi_6_individual_package": {
+        "1_internet_telephone_package": {
+          "title": "Internet and Telephone Package",
+          "table_data": [
+            {
+              "package": "100 Mbps",
+              "amount": "14,499",
+              "mobile_data": "400 MB (All-time) + 400 MB (11 PM - 6 AM)"
+            },
+            {
+              "package": "150 Mbps",
+              "amount": "15,999",
+              "mobile_data": "450 MB (All-time) + 450 MB (11 PM - 6 AM)"
+            },
+            {
+              "package": "200 Mbps",
+              "amount": "19,499",
+              "mobile_data": "500 MB (All-time) + 500 MB (11 PM - 6 AM)"
+            }
+          ]
+        },
+        "2_internet_basic_nttv_telephone_package": {
+          "title": "Internet, Basic NTTV and Telephone Package",
+          "table_data": [
+            {
+              "package": "100 Mbps",
+              "amount": "16,499",
+              "mobile_data": "400 MB (All-time) + 400 MB (11 PM - 6 AM)"
+            },
+            {
+              "package": "150 Mbps",
+              "amount": "17,999",
+              "mobile_data": "450 MB (All-time) + 450 MB (11 PM - 6 AM)"
+            },
+            {
+              "package": "200 Mbps",
+              "amount": "21,499",
+              "mobile_data": "500 MB (All-time) + 500 MB (11 PM - 6 AM)"
+            }
+          ]
+        },
+        "3_internet_premium_nttv_telephone_package": {
+          "title": "Internet, Premium NTTV and Telephone Package",
+          "table_data": [
+            {
+              "package": "100 Mbps",
+              "amount": "17,999",
+              "mobile_data": "400 MB (All-time) + 400 MB (11 PM - 6 AM)"
+            },
+            {
+              "package": "150 Mbps",
+              "amount": "19,499",
+              "mobile_data": "450 MB (All-time) + 450 MB (11 PM - 6 AM)"
+            },
+            {
+              "package": "200 Mbps",
+              "amount": "22,999",
+              "mobile_data": "500 MB (All-time) + 500 MB (11 PM - 6 AM)"
+            }
+          ]
+        }
+      },
+      "b_wifi_6_premium_package": {
+        "1_premium_internet_package_only": {
+          "title": "Premium Internet Package Only",
+          "table_data": [
+            {
+              "package": "100 Mbps",
+              "amount": "35,199",
+              "mobile_data": "500 MB (All-time)"
+            },
+            {
+              "package": "150 Mbps",
+              "amount": "42,999",
+              "mobile_data": "600 MB (All-time)"
+            },
+            {
+              "package": "200 Mbps",
+              "amount": "48,999",
+              "mobile_data": "700 MB (All-time)"
+            }
+          ]
+        },
+        "2_premium_internet_basic_nttv_package": {
+          "title": "Premium Internet and Basic NTTV Package",
+          "table_data": [
+            {
+              "package": "100 Mbps",
+              "amount": "38,199",
+              "mobile_data": "500 MB (All-time)"
+            },
+            {
+              "package": "150 Mbps",
+              "amount": "45,999",
+              "mobile_data": "600 MB (All-time)"
+            },
+            {
+              "package": "200 Mbps",
+              "amount": "51,999",
+              "mobile_data": "700 MB (All-time)"
+            }
+          ]
+        },
+        "3_premium_internet_premium_nttv": {
+          "title": "Premium Internet and Premium NTTV",
+          "table_data": [
+            {
+              "package": "100 Mbps",
+              "amount": "39,519",
+              "mobile_data": "500 MB (All-time)"
+            },
+            {
+              "package": "150 Mbps",
+              "amount": "47,319",
+              "mobile_data": "600 MB (All-time)"
+            },
+            {
+              "package": "200 Mbps",
+              "amount": "53,319",
+              "mobile_data": "700 MB (All-time)"
+            }
+          ]
+        }
+      }
+    },
+    "general_notes": [
+      "Dial 198 for new NT Fiber connection and maintenance",
+      "All charges mentioned above are inclusive of tax",
+      "Terms & Conditions apply"
+    ]
+  }

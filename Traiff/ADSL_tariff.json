@@ -1,0 +1,45 @@
+{
+    "service_category": "ADSL Tariff",
+    "tariff_types": [
+        {
+            "type": "ADSL VOLUME BASED",
+            "plans": [
+                {
+                    "data_volume": "15 GB",
+                    "price": "200 NRs.",
+                    "speed": "Up to 5 Mbps",
+                    "validity": "30 Days"
+                },
+                {
+                    "data_volume": "25 GB",
+                    "price": "300 NRs.",
+                    "speed": "Up to 5 Mbps",
+                    "validity": "30 Days"
+                },
+                {
+                    "data_volume": "40 GB",
+                    "price": "400 NRs.",
+                    "speed": "Up to 5 Mbps",
+                    "validity": "30 Days"
+                }
+            ]
+        },
+        {
+            "type": "ADSL UNLIMITED",
+            "plans": [
+                {
+                    "package": "1 Month Unlimited",
+                    "speed": "5Mbps",
+                    "price": "800 NRs.",
+                    "validity": "1 Month"
+                },
+                {
+                    "package": "1 Year Unlimited",
+                    "speed": "5Mbps",
+                    "price": "8000 NRs.",
+                    "validity": "1 Year"
+                }
+            ]
+        }
+    ]
+}

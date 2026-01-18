@@ -1,0 +1,91 @@
+
+{
+  "service_category": "GSM Postpaid Service Tariff",
+  "sections": [
+    {
+      "section_title": "Postpaid SIM Charges",
+      "table_data": [
+        {
+          "description": "SIM Activation Charge",
+          "amount": "Re.40"
+        },
+        {
+          "description": "Credit Limit",
+          "amount": "Re. 460.00"
+        },
+        {
+          "description": "Total",
+          "amount": "Re. 500"
+        },
+        {
+          "description": "Monthly Rental",
+          "amount": "Re. 300.00"
+        }
+      ],
+      "note": "Free Talk Time worth Re 300.00 is included in the monthly rental charge of Re 300.00"
+    },
+    {
+      "section_title": "DATA Charges",
+      "points": [
+        "Normal Data Charge without any Package: Re. 1/MB(Without TSC & VAT)",
+        "Package Data Charge depends on the package purchased."
+      ]
+    },
+    {
+      "section_title": "SIM Change Charge",
+      "table_data": [
+        {
+          "description": "Post-Paid SIM Change",
+          "amount": "Re. 50.00",
+          "note": "Inclusive of Taxes"
+        },
+        {
+          "description": "Post-Paid Ownership Change",
+          "amount": "Re.100",
+          "note": "Inclusive of Taxes"
+        }
+      ]
+    },
+    {
+      "section_title": "Postpaid Call Charge",
+      "subsections": [
+        {
+          "subsection_title": "Inside NT Network",
+          "table_data": [
+            {
+              "service_type": "On-Net Call",
+              "peak_hour": "Re. 1.00 per minute",
+              "off_peak_hour": "Rs. 0.55 per minute",
+              "pulse": "10 sec"
+            }
+          ],
+          "note": "Peak Hour: 6:00 AM to 10:00 PM, Off-Peak Hour: 10:00 PM to 6:00 AM"
+        },
+        {
+          "subsection_title": "Outside NT Network",
+          "table_data": [
+            {
+              "service_type": "Off-Net Call",
+              "call_charge": "Re. 1.5 per minute",
+              "pulse": "10 sec"
+            }
+          ],
+          "note": "Tariff exclusive of taxes"
+        }
+      ]
+    },
+    {
+      "section_title": "Video Call",
+      "points": [
+        "Re. 2.00 per minute(Exclusive of Taxes)"
+      ]
+    },
+    {
+      "section_title": "Short Message Service (SMS)",
+      "points": [
+        "Inside Company's Network (GSM): Re. 1.00 per SMS",
+        "Tariff exclusive of Taxes"
+      ]
+    }
+  ]
+}

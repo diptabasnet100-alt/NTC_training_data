@@ -1,0 +1,31 @@
+{
+  "page_title": "Online Recharge",
+  "recharge_options": [
+    {
+      "method": "PIN",
+      "status": "active",
+      "description": "Recharge using PIN"
+    },
+    {
+      "method": "Namaste Pay",
+      "status": "inactive"
+    },
+    {
+      "method": "Khalti",
+      "status": "inactive"
+    },
+    {
+      "method": "ESewa",
+      "status": "inactive"
+    }
+  ],
+  "recharge_form": {
+    "field": {
+      "name": "number",
+      "type": "text",
+      "placeholder": "Eg. 9841xxxxxx, 01421xxxx",
+      "label": "Subscription Number",
+      "required": "true"
+    }
+  }
+}

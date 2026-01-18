@@ -1,0 +1,140 @@
+{
+    "faqs": [
+      {
+        "question": "What is 4G/LTE ?",
+        "answer": "LTE stands for “Long Term Evolution”. It is the next generation of wireless data technology after 3G, commonly referred as 4G."
+      },
+      {
+        "question": "What are the benefits of upgrading to 4G/LTE?",
+        "answer": "It provides you path breaking mobile internet experience, buffer-free streaming and amazingly clear videos. It enables you to enjoy bandwidth intensive contents such as videos/music streaming, cloud services and alike."
+      },
+      {
+        "question": "What are the factors affecting 4G/LTE speed ?",
+        "answer": "The actual speed depends on various factors like:\n- Device used and phone capacity to get maximum speed.\n- 4G/LTE network coverage.\n- Distance between user and base station.\n- Nature of built-up area.\n- Number of data/internet users at a time (traffic over the internet).\n- 4G/LTE technology adopted."
+      },
+      {
+        "question": "What are the requirements for getting 4G/LTE service?",
+        "answer": "You will require a 4G/LTE handset, 4G/LTE compatible SIM & should be present in a 4G/LTE network coverage area. You will not be latched onto 4G/LTE network in absence of any of these requirements."
+      },
+      {
+        "question": "How will I know if my handset is ready for 4G/LTE ?",
+        "answer": "Please check the network setting of your handset and look for available network it supports. Besides 2G and 3G (WCDMA) there must be an option showing 4G/LTE."
+      },
+      {
+        "question": "If I put a 4G/LTE SIM on my 3G handset, will it work ?",
+        "answer": "The SIM will work as a normal 3G SIM; you will not be latched onto 4G/LTE network."
+      },
+      {
+        "question": "How will I know that I am connected to 4G/LTE network ?",
+        "answer": "You will see ‘LTE’ or ‘4G’,depending upon phone models, next to the signal bars at the top of your screen."
+      },
+      {
+        "question": "Will my device always stay connected to 4G/LTE network?",
+        "answer": "No, you will not always be connected to 4G/LTE as this depends on your location and 4G/LTE coverage/signal strength available to you. You might notice that your device is switching between 2G, 3G and 4G/LTE as you move around."
+      },
+      {
+        "question": "How do I turn on 4G/LTE on my handset ?",
+        "answer": "Please go to network setting on your handset and select 4G/LTE under network type."
+      },
+      {
+        "question": "How do I switch back to 3G/2G ?",
+        "answer": "Please go to your handset’s network setting and select 3G/2G."
+      },
+      {
+        "question": "What is the 4G technology which Nepal Telecom is using ?",
+        "answer": "NT is currently operating 4G LTE technology on 800MHz(Band 20) and 1800MHz(Band 3). Please ensure that your handset supports these two bands to experience the best speed and coverage. For reference visit https://www.ntc.net.np/nt-4g-lte-bands"
+      },
+      {
+        "question": "In which area Nepal Telecom has 4G/LTE coverage as of now?",
+        "answer": "Currently, we have 4G/LTE coverage in all 77 districts of the country."
+      },
+      {
+        "question": "Is Nepal Telecom’s 4G/LTE for Postpaid or Prepaid?",
+        "answer": "4G/LTE service is for both GSM Prepaid and Postpaid customers."
+      },
+      {
+        "question": "How do I know if my NT SIM is 4G/LTE compatible?",
+        "answer": "Dial *444# to check the SIM and activate 4G/LTE service."
+      },
+      {
+        "question": "If I am already Nepal Telecom’s mobile subscriber, how can I activate 4G/LTE Service?",
+        "answer": "If you have 4G/LTE compatible SIM, simply dial *444# for service activation. If you are still in possession of 2G/3G SIM, you must get 4G/LTE compatible SIM."
+      },
+      {
+        "question": "How do I get NT's 4G/LTE compatible SIM?",
+        "answer": "You can visit any of the Nepal Telecom offices located at: Hattigauda, Gongabu, Chhauni, Babarmahal, Chabahil, Sundhara, Jawalakhel, Sajha Bhawan, Thimi and Bhaktapur in Kathmandu Valley and Mahendrapul in Pokhara to get NT’s 4G/LTE compatible SIM."
+      },
+      {
+        "question": "How much do I have to pay to get NT's 4G/LTE compatible SIM?",
+        "answer": "You can exchange your NT’s 2G/3G SIM for NT's 4G/LTE compatible SIM following the regular SIM replacement process."
+      },
+      {
+        "question": "What is the service activation fee?",
+        "answer": "Service activation is free of charge."
+      },
+      {
+        "question": "How can a new customer subscribe to Nepal Telecom’s 4G/LTE service?",
+        "answer": "Please follow the regular process of service subscription and you will be provided with a 4G/LTE compatible SIM and follow the activation procedure as mentioned above. Before using NT’s 4G/LTE service please ensure that your handset is 4G/LTE compatible."
+      },
+      {
+        "question": "How will I know if my handset is ready for Nepal Telecom’s 4G/LTE network?",
+        "answer": "For your handset to operate on Nepal Telecom’s 4G/LTE network, your handset should support LTE 800MHz(Band 20) and 1800 MHz(Band 3). Please check specifications of your handset. For reference visit https://www.ntc.net.np/nt-4g-lte-bands"
+      },
+      {
+        "question": "In order to use Nepal Telecom’s 4G/LTE service must there be special APN configuration?",
+        "answer": "Same commercial APN viz. ntnet or ntwap has to be provided for APN configuration in your handset."
+      },
+      {
+        "question": "I brought 4G/LTE smartphone from overseas. Does it still work on Nepal Telecom’s 4G/LTE network ?",
+        "answer": "Please check your phone specification to ensure that your device operates on LTE 1800 MHz (B3) and LTE 800MHz(B20) band. You may check it on: https://www.ntc.net.np/nt-4g-lte-bands"
+      },
+      {
+        "question": "Does Nepal Telecom’s 4G/LTE service cost more than 3G/2G service?",
+        "answer": "No, the normal tariff for 4G data is same as 3G or 2G data service. Nepal Telecom frequently brings attractive data packages to our valued customers time and again. Please visit Nepal Telecom’s website for updates."
+      },
+      {
+        "question": "What will happen to my existing data package after I upgrade 4G/LTE service?",
+        "answer": "You can continue enjoy your existing data package in all available Nepal Telecom’s GSM network."
+      },
+      {
+        "question": "What is the upload and download speeds that I can get with NT 4G/LTE?",
+        "answer": "With NT4G/LTE service your data experience will go to another level by providing you with the fastest mobile data connection. At this moment Nepal Telecom’s 4G/LTE service provides you with a speed upto 5x faster than its current 3G service."
+      },
+      {
+        "question": "What will happen if I move into an area with no 4G/LTE coverage?",
+        "answer": "In areas where 4G/LTE has not been deployed, you will be seamlessly switched to Nepal Telecom’s 3G/2G connectivity."
+      },
+      {
+        "question": "Can I make a voice call and SMS when I am latched to 4G/LTE network ?",
+        "answer": "Yes,you can make normal voice call and SMS even if you are latched to 4G/LTE network."
+      },
+      {
+        "question": "Where do I complain regarding 4G/LTE service of NT ?",
+        "answer": "You can call our customer care center number 1498 for any queries regarding our 4G/LTE service."
+      },
+      {
+        "question": "नेपाल टेलिकमले उपलब्ध गराएको 4G सेवा प्रयोग गर्न के के आवश्यक पर्दछ?",
+        "answer": "नेपाल टेलिकमको 4G सेवा उपभोग गर्नका लागि तपाईं संग नेपाल टेलिकमको 4G सिमकार्ड, 4G सपोर्ट गर्ने मोवाईल सेटका साथै तपाईं 4G कभरेज एरियामा भएको हुनुपर्दछ। नेपाल टेलिकमबाट बिक्री बितरण गरिने सबै नयाँ सिमकार्डहरुले 4G सपोर्ट गर्ने भएकोले तपाईंसंग 4G मोवाईल सेट छ भने तपाईंले नेपाल टेलिकमको 4G कभरेज एरिया भित्र मज्जाले4G सेवा प्रयोग गर्न सक्नुहुन्छ।"
+      },
+      {
+        "question": "मेरो मोवाईल सेटले 4G सपोर्ट गर्दछ तर कुनै स्थानमा 4G चल्दछ भने कतै चल्दैन किन यस्तो हुन्छ?",
+        "answer": "नेपाल टेलिकमले जनघनत्व कम भएका ग्रामिण क्षेत्रमा टाढा सम्म कभरेज हुने गरी LTE Band 20 (800MHZ) मा 4G सेवा संचालन गरिरहेको छ भने जनघनत्व बढी भएका शहरी क्षेत्रहरुमा धेरै ग्राहकलाई एकसाथ सेवा प्रदान गर्न सकिने गरी LTE Band 3 (1800MHZ) मा 4G सेवा संचालन गरिरहेको छ। गाउँ शहर सबैतिर 4G सेवा उपयोग गर्न तपाईंको मोवाईल सेटले LTE Band 3 (1800MHZ) र LTE Band 20 (800MHZ) दुबै सपोर्ट गर्ने हुनु पर्दछ। तर नेपालमा हाल बिक्रि बितरण भैरहेका केही सेटहरुले LTE Band 3 (1800MHZ) सपोर्ट गर्ने तर LTE Band 20 (800MHZ) सपोर्ट नगर्ने भएका कारण यस्ता सेट भएका ग्राहकहरुलेशहरी क्षेत्रमा 4G चलाउन सक्ने तर अन्यत्र चलाउन नसक्ने गुनासो प्राप्त भईरहेको छ। यसको समाधानको लागि मोवाईल सेट खरिद गर्दा नै उक्त सेटले 4G LTE Band 20 (800MHZ) र Band 3 (1800MHZ) दुबै सपोर्ट गर्ने यकिन गरेर मात्र खरिद गर्नुपर्ने हुन्छ।"
+      },
+      {
+        "question": "मेरो गाउँमा कुनै ब्रान्डको मोवाईल सेटमा 4G चल्दछ अरु सेटमा चल्दैन। यस्तो किन हुन्छ?",
+        "answer": "नेपाल टेलिकमले जनघनत्व कम भएका ग्रामिण क्षेत्रमा टाढा सम्म कभरेज हुने गरी LTE Band 20 (800MHZ) मा 4G सेवा संचालन गरिरहेको छ। यस्तो क्षेत्रमा LTE Band 20 (800MHZ) सपोर्ट गर्ने सेटमा मात्र 4G सेवा चलाउन सकिन्छ भने अरु सेटमा 4G चल्दैन। तर 4G सेवा कुनै ब्रान्डको मोवाईल सेटमा मात्र चल्ने अरु ब्रान्डको सेटमा नचल्ने भने हुँदैन।"
+      },
+      {
+        "question": "नयाँ खरिद गर्न लागेको मोवाईल सेटले कुन कुन ब्यान्डको 4G सपोर्ट गर्दछ वा गर्दैन भन्ने कसरी थाहा पाउन सकिन्छ?",
+        "answer": "खरिद गर्न लागेको मोवाईल सेटको स्पेशिफिकेशन चेक गरी उक्त सेटले 2G/3G/4G कुन नेटवर्कको कुन कुन फ्रिक्वेन्सी सपोर्ट गर्दछ वा गर्दैन भन्ने थाहा पाउन सकिन्छ।"
+      },
+      {
+        "question": "मैले हाल प्रयोग गरिरहेको मोवाईल सेटले कुन कुन ब्यान्डको 4G सपोर्ट गर्दछ वा गर्दैन भन्ने कसरी थाहा पाउन सक्दछु?",
+        "answer": "मोवाईलको IMEI नम्बरको आधारमा उक्त सेटले 2G/3G/4G कुन नेटवर्कको कुन कुन फ्रिक्वेन्सी सपोर्ट गर्दछ वा गर्दैन भन्ने थाहा पाउन सकिन्छ। यसको लागि https://www.ntc.net.np/nt-4g-lte-bands मा गई आफ्नो मोवाईलको IMEI नम्बरराखी सर्च गरेर बिस्तृत बिबरण हेर्न सक्नुहुन्छ।"
+      },
+      {
+        "question": "4G मोवाईल सेट सम्बन्धमा",
+        "answer": "ग्राहकहरुलाई अत्याधुनिक दूरसंचार सेवा उपलब्ध गराउनका लागि नेपाल टेलिकमले देशभर 4G LTE नेटवर्क बिस्तार गरिरहेको छ। 4G LTE सेवा संचालनका लागि नेपाल दूरसंचार प्राधिकरणबाट LTE Band 20 (800MHZ) र LTE Band 3 (1800MHZ) को अनुमति प्राप्त भएकोमा जनघनत्व कम भएका ग्रामिण क्षेत्रमा टाढा सम्म कभरेज हुने गरी LTE Band 20 (800MHZ) मा 4G सेवा संचालन गरिएको छ भने जनघनत्व बढी भएका शहरी क्षेत्रहरुमा धेरै ग्राहकलाई एकसाथ सेवा प्रदान गर्न सकिने गरी LTE Band 3 (1800MHZ) मा 4G सेवा संचालन गरिएको छ। 4G LTE नेटवर्क बिस्तार भएका क्षेत्रमा 4G सेवा प्रयोग गर्न ग्राहकहरु संग 4G सपोर्ट गर्ने मोवाईल सेट हुनु आवश्यक हुन्छ। हाल नेपालमा बिक्रि बितरण भईरहेका कतिपय मोवाईल सेटले LTE Band 3 (1800MHZ) सपोर्ट गर्ने तर LTE Band 20 (800MHZ) सपोर्ट नगर्ने भएको कारण धेरै ग्राहकहरुले गुणस्तरीय 4G सेवा उपभोग गर्न असमर्थ हुनुभएको जानकारी प्राप्त भएकोले मोवाईल सेट खरिद गर्दा उक्त सेटले 4G LTE Band 20 (800MHZ) र Band 3 (1800MHZ) दुबै सपोर्ट गर्ने यकिन गरी खरिद गर्नुहुन अनुरोध गरिन्छ। साथै मोवाईल सेट आयात तथा बिक्री गर्दा नेपालको 4G LTE Band 20 (800MHZ) र LTE Band 3 (1800MHZ) दुबै सपोर्ट गर्ने मोवाईल सेटहरु मात्र आयात तथा बिक्री बितरणको लागि सम्बन्धित सबैमा अनुरोध गरिन्छ।"
+      }
+    ]
+  }

@@ -1,0 +1,45 @@
+{
+    "service": {
+      "service_name": "4G LTE Network",
+      "provider": "Nepal Telecom (NT)",
+      "description": "Nepal Telecom introduces 4G/LTE, a mobile communications standard intended to replace 3G, allowing wireless Internet access at a much higher speed. 4G and LTE are two common terms used for the same technology. This technology supports much higher speeds than previous technologies, providing a better internet browsing experience, uninterrupted video streaming at higher definition, and faster data transfer.",
+      "slogans": [
+        "Enjoy the fast internet speed – 4G/ LTE is here",
+        "Be ahead of time, Subscribe to 4G/LTE the latest in global mobile technology",
+        "Upload, Download, Share and stay connected – Be Ahead",
+        "Now at a much higher speed – Use NT 4G/LTE",
+        "First Time in Nepal – Cutting edge global technology at your fingertip",
+        "Try it now to feel the difference.",
+        "It will be an experience you will remember."
+      ],
+      "activation": {
+        "ussd_code": "*444#",
+        "purpose": "For Activating 4G/LTE Service and checking SIM compatibility",
+        "activation_fee": "No service activation fee for 4G/LTE",
+        "usage_charges": "The same as before (not expensive)",
+        "configuration": "Subscription to 4G/LTE service and configuring it in your handset is easy. In case of any confusion, feel free to contact our customer care center."
+      },
+      "coverage": {
+        "availability_status": "Extensive reach across all 77 districts, encompassing 741 out of 753 local bodies",
+        "coverage_list_note": "List of 4G coverage in all the provinces and its local bodies is available",
+        "expansion_plans": "Plans to further extend 4G/LTE services to cover the remaining local bodies in the near future",
+        "service_start": "Since 2017 AD"
+      },
+      "requirements": {
+        "device": "Your mobile device needs to support 4G/LTE",
+        "sim_card": "If you have an older version of SIM card, you will need to replace it with a newer 4G enabled SIM (Universal SIM i.e. U-SIM)",
+        "sim_compatibility_check": "Dial *444# to check whether your SIM card supports 4G/LTE"
+      },
+      "data_usage_recommendation": {
+        "note": "As 4G/LTE enables you to browse data at much higher speeds, you will have a much better browsing experience and your data consumption will go up.",
+        "recommendation": "It is advisable that you buy a data pack which is appropriate for you – use data pack and save money."
+      },
+      "support": {
+        "contact": {
+          "phone": "1498",
+          "office": "Contact your nearest Nepal Telecom Office"
+        },
+        "customer_care": "Feel free to contact our customer care center in case of any confusion regarding subscription or configuration."
+      }
+    }
+  }

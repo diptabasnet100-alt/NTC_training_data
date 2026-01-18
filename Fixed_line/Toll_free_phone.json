@@ -1,0 +1,64 @@
+{
+    "training_data": [
+      {
+        "instruction": "What is Nepal Telecom's Toll Free Phone service?",
+        "input": "",
+        "output": "Nepal Telecom provides Toll Free Phone, also called Advanced Free Phone Service (AFS), which is a value added service designed for corporate offices, commercial organizations, and social communities that need quality communications with their customers, suppliers, dealers, and supporters to enhance relationships."
+      },
+      {
+        "instruction": "Explain the main feature of Nepal Telecom's AFS service.",
+        "input": "",
+        "output": "The main feature of Nepal Telecom's AFS service is Reverse Charging: When someone calls an AFS number, the caller is not charged for the call. Instead, the AFS subscriber (the owner of the toll-free number) pays for the incoming calls."
+      },
+      {
+        "instruction": "List the features of Nepal Telecom's Toll Free Phone service.",
+        "input": "",
+        "output": "1. Reverse Charging (caller doesn't pay, AFS subscriber pays)\n2. Single Unique AFS Number\n3. Can handle 10 simultaneous calls per AFS number\n4. Flexible Routing\n5. Welcome message capability\n6. Call Limit options"
+      },
+      {
+        "instruction": "What types of organizations need AFS service from Nepal Telecom?",
+        "input": "",
+        "output": "AFS service is appropriate for:\n1. Hotels, airlines, travel agencies for reservations\n2. Banks for customer service to major clients\n3. Consumer goods manufacturers for wholesale orders\n4. Companies needing after-sales or customer service\n5. Media companies for field reporters\n6. FM stations for interactive programs\n7. All companies wanting to enhance dealer/customer/supplier relationships"
+      },
+      {
+        "instruction": "What is the AFS numbering format for Nepal Telecom?",
+        "input": "",
+        "output": "The AFS number is 11 digits: '1810-5-XXXXX' where:\n- '1810' is the access code\n- '5' is fixed\n- 'XXXXX' represents 5 digits chosen by the subscriber (first come, first served basis)\nExample: For Kathmandu, it could be 1810-5-11111"
+      },
+      {
+        "instruction": "What documents are required to get Nepal Telecom's Toll Free Phone service?",
+        "input": "",
+        "output": "Required documents:\n1. Completed Toll Free Phone application form (downloadable)\n2. Copy of PAN and office registration letter (for private organizations only)\n3. A formal letter requesting Toll Free service from Nepal Telecom"
+      },
+      {
+        "instruction": "What are the tariff rates for Nepal Telecom's AFS service?",
+        "input": "",
+        "output": "AFS Tariff Rates:\n- Registration Charge: NRs. 1,000\n- Security Deposit: Additional NRs. 15,000 for STD Call facility\n- Minimum service period: One month\n- Monthly Rental: NRs. 1,000 (includes 400 minutes of free calls)\n- Service available at: All Nepal Telecom offices nationwide"
+      },
+      {
+        "instruction": "How do I contact Nepal Telecom for AFS technical support?",
+        "input": "",
+        "output": "For technical support, contact:\nNepal Telecom - Kathmandu Provincial Directorate\nIntelligent Network (IN) Section\nSundhara, Kathmandu\nPhone: 977-1-5321244 or 01-5321244\nEmail: in_sundhara@ntc.net.np"
+      },
+      {
+        "instruction": "What is the reverse charging feature in Nepal Telecom's AFS?",
+        "input": "",
+        "output": "Reverse charging in Nepal Telecom's AFS means that when a customer calls the toll-free number, the caller does not pay for the call. Instead, the organization that owns the AFS number (the service subscriber) is charged for the incoming call. This encourages customers to call without worrying about call charges."
+      },
+      {
+        "instruction": "How many simultaneous calls can a Nepal Telecom AFS number handle?",
+        "input": "",
+        "output": "A single Nepal Telecom AFS number can handle up to 10 simultaneous calls at once. This allows multiple customers to call the same toll-free number without getting busy signals during peak times."
+      },
+      {
+        "instruction": "What is included in the monthly rental for Nepal Telecom AFS service?",
+        "input": "",
+        "output": "The monthly rental of NRs. 1,000 for Nepal Telecom's AFS service includes 400 minutes of free calls. After these 400 minutes, additional charges apply according to Nepal Telecom's standard rates."
+      },
+      {
+        "instruction": "Where can I apply for Nepal Telecom's Toll Free Phone service?",
+        "input": "",
+        "output": "You can apply for Nepal Telecom's Toll Free Phone service at all Nepal Telecom offices across the nation. There is no restriction on location - you can apply from any regional or district office of Nepal Telecom."
+      }
+    ]
+  }

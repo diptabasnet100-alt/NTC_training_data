@@ -1,0 +1,925 @@
+{
+  "service": {
+    "service_name": "Fiber To The Home - FTTH",
+    "slogan": "Enjoy Everything from a Single Fiber!!",
+    "available_services": ["Broadband Internet", "Voice Service", "Television"],
+    "subscription_process": [
+      "Contact the nearest NT office to check availability at your location.",
+      "Fill the service registration form for FTTH in-service counter.",
+      "Check FTTH Tariff for package and price details.",
+      "Submit the form to the concerned NT office."
+    ],
+    "registration_form_url": "https://www.ntc.net.np/downloads",
+    "support": {
+      "complain_registration": "Dial 198 and select option 1"
+    },
+    "coverage": {
+      "availability_note": "All Districts",
+      "locations": [
+        {
+          "district": "Baglung",
+          "ftth_locations": ["Baglung"],
+          "contact_office": "Baglung",
+          "contact_number": "068-520111"
+        },
+        {
+          "district": "Banke",
+          "ftth_locations": [
+            "Bhrikuti Nagar",
+            "Bus Park",
+            "CDO Office",
+            "Ganeshman Chowk",
+            "BP Chowk"
+          ],
+          "contact_office": "Nepalgunj",
+          "contact_number": "081-528333"
+        },
+        {
+          "district": "Banke",
+          "ftth_locations": [
+            "NEA Regional Office",
+            "Dhamboji Area",
+            "Ranjha Airport"
+          ],
+          "contact_office": "Karkando",
+          "contact_number": "081-528333"
+        },
+        {
+          "district": "Banke",
+          "ftth_locations": ["Kohalpur", "Shiva Mandir"],
+          "contact_office": "Kohalpur",
+          "contact_number": "081-540006"
+        },
+        {
+          "district": "Bhaktapur",
+          "ftth_locations": ["Jitpur Nagarkot"],
+          "contact_office": "Bhaktapur",
+          "contact_number": "016620066, 016618852"
+        },
+        {
+          "district": "Bhaktapur",
+          "ftth_locations": [
+            "Eye hospital area",
+            "Kuashaltaar",
+            "Near Bridge",
+            "Kuashaltaar",
+            "Kuashaltaar",
+            "Near Cabinet#25"
+          ],
+          "contact_office": "Thimi",
+          "contact_number": "016632600, 016632700"
+        },
+        {
+          "district": "Chitwan",
+          "ftth_locations": [
+            "Near Parsa NT Office",
+            "Parsa Chowk N/W",
+            "Old Parsa Bazar N/E",
+            "Old Parsa Bazar S/W"
+          ],
+          "contact_office": "Parsa",
+          "contact_number": "056-582111"
+        },
+        {
+          "district": "Chitwan",
+          "ftth_locations": [
+            "Jhuwani Chowk",
+            "Chara Chowk",
+            "Hatti Chowk",
+            "Bachhauli Chowk"
+          ],
+          "contact_office": "Sauraha",
+          "contact_number": "056-561177"
+        },
+        {
+          "district": "Chitwan",
+          "ftth_locations": [
+            "Doorsanchar Mod",
+            "Tandi Chowk South",
+            "Police Office",
+            "Bhaktini Bagaichaa",
+            "Kholesimal Chowk",
+            "Club Chowk",
+            "Prasauni Chowk",
+            "Prasauni Tharugaun Chowk"
+          ],
+          "contact_office": "Tandi",
+          "contact_number": "056-561177"
+        },
+        {
+          "district": "Chitwan",
+          "ftth_locations": [
+            "Gorkhali Chowk",
+            "Baseni Nahar",
+            "Baseni Chowk",
+            "Pipal Chautari Chowk",
+            "Bishal Chowk",
+            "Aman Chowk",
+            "Nahar Chowk",
+            "Pokhari Chowk",
+            "Nayakiran Chowk",
+            "Napi Chowk",
+            "Jagriti Chowk",
+            "Malpot Chowk",
+            "Thani chowk",
+            "Surya Chowk",
+            "Mandir Chowk",
+            "Sahid Chowk N/W",
+            "Sahid Chowk S/E",
+            "Sahid Chowk S/W",
+            "Sahid Chowk N/E",
+            "Cancer Gate No. 1",
+            "Buddha Chowk",
+            "MachhaPuchhre Chowk",
+            "Pipal Chowk",
+            "Katahar Chowk",
+            "Trichowk",
+            "Gautam Chowk",
+            "Prithvi Chowk S/W",
+            "Prithvi Chowk N/W",
+            "NT Bharatpur Gate",
+            "Traffic Chowk",
+            "Dharma Chowk",
+            "Cancer Road Turning",
+            "Hotel Moon Star",
+            "Prithvi Chowk S/E",
+            "Paras Buspark East Entry",
+            "Milan Chowk(South)",
+            "Basant Chowk(South)",
+            "Harma Chowk(South)",
+            "Bar Pipal Party Palace",
+            "Trichowk Ghodapalan",
+            "Dairy Chowk(Samjhana Chowk)",
+            "Shrijana Chowk(Shankar Chowk)",
+            "Dipendra Chowk",
+            "Airport Chowk",
+            "Saptagandaki Chowk",
+            "Birendra Campus Road (Synergy Road)",
+            "Niko Bal Hospital",
+            "Purnima Chowk",
+            "Aastha Chowk",
+            "Bishal Chowk",
+            "Baikuntha Chowk",
+            "Munal Chowk",
+            "Bel Chowk",
+            "Naughare Chowk",
+            "Barghare Chowk and Newroad(Khanal Chowk)",
+            "Gholbazar Area",
+            "Nauarangi Chowk",
+            "Ganesh Chowk",
+            "Pokhara Buspark",
+            "Aaptari",
+            "Barghare",
+            "Ramghat",
+            "Pokhara Buspark",
+            "Kshetrapur Falful",
+            "Mandi"
+          ],
+          "contact_office": "Bharatpur",
+          "contact_number": "056-510511"
+        },
+        {
+          "district": "Chitwan",
+          "ftth_locations": ["Bhandara Bazar"],
+          "contact_office": "Bhandara",
+          "contact_number": "056-550000"
+        },
+        {
+          "district": "Dailekh",
+          "ftth_locations": ["NT Dailekh", "Tudikhel"],
+          "contact_office": "Dailekh",
+          "contact_number": "089-420122"
+        },
+        {
+          "district": "Dailekh",
+          "ftth_locations": ["Dailekh", "Dullu"],
+          "contact_office": "Dailekh",
+          "contact_number": "089-420122"
+        },
+        {
+          "district": "Dang",
+          "ftth_locations": ["Ghorahi", "Miteri Hospital"],
+          "contact_office": "Ghorahi",
+          "contact_number": "082-560474"
+        },
+        {
+          "district": "Dang",
+          "ftth_locations": ["Tulsipur"],
+          "contact_office": "Tulsipur",
+          "contact_number": "082-521200"
+        },
+        {
+          "district": "Dhading",
+          "ftth_locations": ["Dhadingbesi"],
+          "contact_office": "Dhadingbesi",
+          "contact_number": "010-520104"
+        },
+        {
+          "district": "Dhankuta",
+          "ftth_locations": ["Triveni Chowk", "Highway"],
+          "contact_office": "Dhankuta",
+          "contact_number": "026522198, 026522108"
+        },
+        {
+          "district": "Dhanusha",
+          "ftth_locations": [
+            "Shiva chowk",
+            "Bhanu Chowk",
+            "Mahabir Chowk",
+            "Murali Chowk",
+            "Provinance 2 CM office area",
+            "Ramanand Chowk",
+            "Kadam Chowk",
+            "PethiyaBazar",
+            "Campus Chowk",
+            "Bishwakarma Chowk"
+          ],
+          "contact_office": "Janakpur,Kadamchowk,Pathiyabazar",
+          "contact_number": "041-421777"
+        },
+        {
+          "district": "Dolakha",
+          "ftth_locations": ["Charikot"],
+          "contact_office": "Charikot",
+          "contact_number": "049421430, 049421122"
+        },
+        {
+          "district": "Dolakha",
+          "ftth_locations": ["Jiri"],
+          "contact_office": "Jiri",
+          "contact_number": "049-400000"
+        },
+        {
+          "district": "Dolakha",
+          "ftth_locations": ["Mainapokhari"],
+          "contact_office": "Mainapokhari",
+          "contact_number": "049-411000"
+        },
+        {
+          "district": "Jajarkot",
+          "ftth_locations": ["Jajarkot Khalanga"],
+          "contact_office": "Jajarkot",
+          "contact_number": "089-430001"
+        },
+        {
+          "district": "Jhapa",
+          "ftth_locations": ["Mukti Chowk", "West of Bus stop"],
+          "contact_office": "Birtamod",
+          "contact_number": "023530444, 023544444"
+        },
+        {
+          "district": "Jhapa",
+          "ftth_locations": ["Damak Night Bus Stop"],
+          "contact_office": "Damak",
+          "contact_number": "023573333, 023570001"
+        },
+        {
+          "district": "Jumla",
+          "ftth_locations": ["Jumla Khalanga"],
+          "contact_office": "Jumla",
+          "contact_number": "087-520101"
+        },
+        {
+          "district": "Kailali",
+          "ftth_locations": [
+            "Campus Chowk of Hulaki Road",
+            "ShivaNagar Chowk",
+            "Gyanu plaza Chauraha",
+            "Chauraha oppsite,manehara",
+            "Gaon chowk",
+            "Chauraha",
+            "Chatakpur",
+            "Salt Trading"
+          ],
+          "contact_office": "Dhangadhi",
+          "contact_number": "091523090, 091522010"
+        },
+        {
+          "district": "Kalikot",
+          "ftth_locations": ["Manma Kalikot"],
+          "contact_office": "Kalikot",
+          "contact_number": "087-440044"
+        },
+        {
+          "district": "Kanchanpur",
+          "ftth_locations": ["Bazar Line"],
+          "contact_office": "Mahendranagar",
+          "contact_number": "099-522000"
+        },
+        {
+          "district": "Kapilbastu",
+          "ftth_locations": ["Taulihawa"],
+          "contact_office": "Taulihawa",
+          "contact_number": "076-560000"
+        },
+        {
+          "district": "Kapilwastu",
+          "ftth_locations": ["Bahadurgunj"],
+          "contact_office": "Bahadurgunj(Krishnanagar)",
+          "contact_number": "076-590000"
+        },
+        {
+          "district": "Kaski",
+          "ftth_locations": ["Hallen Chowk", "Jarebar", "Lake Side"],
+          "contact_office": "Pardi",
+          "contact_number": "061-550999"
+        },
+        {
+          "district": "Kaski",
+          "ftth_locations": ["Sisuwa Chwok"],
+          "contact_office": "Sisuwa",
+          "contact_number": "061-561715"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Oppsite to Kumari Bank(Putalisadak)",
+            "Putalisadak",
+            "Star Mall",
+            "Dillibazar",
+            "Dillibazar",
+            "Pipalbot",
+            "Charkhal",
+            "Gyaneshwore",
+            "Ggattekulo",
+            "Maitidevi",
+            "Khasibazar",
+            "Krishna Pawroti",
+            "Thamel"
+          ],
+          "contact_office": "Naxal",
+          "contact_number": "014530660, 014516666"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Thahity Chowk",
+            "Bhedasingh",
+            "Ason",
+            "Bagdurbar",
+            "Teku",
+            "Thamel Area"
+          ],
+          "contact_office": "Sundhara",
+          "contact_number": "01-5700100, 01-5700108"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": ["Thamel Area"],
+          "contact_office": "Naxal",
+          "contact_number": "014530660, 014516666"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Kalimati #10",
+            "Tahachal",
+            "Near Police Post(Tahachal)",
+            "Chauni",
+            "Bafal",
+            "Gaibachapati",
+            "Bafal",
+            "Sitapaila"
+          ],
+          "contact_office": "Chhauni",
+          "contact_number": "014285001"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Bhaketopati route",
+            "Exchange area",
+            "Nagaun Dobato Chowk",
+            "Nagaun",
+            "Kirtipur Bihar",
+            "Kirtipur",
+            "Kirtipur Dhwakasi",
+            "Chikhu Planning",
+            "Kumari Club",
+            "Tyanglaphant"
+          ],
+          "contact_office": "Kirtipur",
+          "contact_number": "014331888, 014331666"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": ["Basundole", "Basundol Bhim School"],
+          "contact_office": "Balambu",
+          "contact_number": "014315606, 014312012"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Civil Homes Tinthana",
+            "Orchid Colony #001",
+            "Dhuge Adda #001",
+            "DhungeAdda - Tinthana"
+          ],
+          "contact_office": "Naikap",
+          "contact_number": "014315606, 014312000"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Chamati",
+            "Gongabu Chowk Ring road",
+            "Khusibu Town Planning",
+            "Khusibu Nayabazar",
+            "Basundhara",
+            "Gongabu Chowk Ring Road",
+            "Mhepi Mandir"
+          ],
+          "contact_office": "Gongabu",
+          "contact_number": "014350350"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Basundhara",
+            "Maharajgunj",
+            "Bhatbhateni Super Market Near",
+            "Sukedhara",
+            "Near Dhumbarahi",
+            "Bansbari",
+            "Dhumbarahi"
+          ],
+          "contact_office": "Hattigaunda",
+          "contact_number": "014372700, 014374800"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Gothatar",
+            "Namuna Chowk",
+            "Pepsicola(Surua Mukhi Chowk)",
+            "Near Football Ground",
+            "Kandaghari Chowk",
+            "Suncity",
+            "Gothatar",
+            "Near Gothatar Exchange",
+            "Suncity Apartment"
+          ],
+          "contact_office": "Gothatar(Thimi)",
+          "contact_number": "016632600, 016632700"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Near Alfa Beta",
+            "North side of BICC",
+            "Near White House",
+            "Opposite of Venus Hospital",
+            "Kwality Banquet"
+          ],
+          "contact_office": "Babarmahal",
+          "contact_number": "014786628, 014786633"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Chabahil NT",
+            "Boudha Tusal",
+            "Mahankal Panitanki",
+            "Boudha Shantigoreto",
+            "Kumarigal(Kharibot) Bhatkekopul",
+            "Chabahil Ganesthan",
+            "Ratopul",
+            "Kalopul",
+            "Sifal",
+            "Gaurighat",
+            "Sinamangal KMC",
+            "Purano Baneshwor",
+            "Madhya Baneshowr",
+            "Battisputali",
+            "Bijayachowk",
+            "Gaushala",
+            "Bagmatifat"
+          ],
+          "contact_office": "Chabahil",
+          "contact_number": "014479200, 015903390"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "NT Jorpati",
+            "Orthopedic Hostpital",
+            "Eastpole School",
+            "Jambudanda Area",
+            "Bahundhara Area",
+            "Baral Petrol Pump Area",
+            "Patitar",
+            "Serveshwor Mandir",
+            "Rudreshwor Mandir",
+            "Bancharetar",
+            "NT Office Jorpati Area"
+          ],
+          "contact_office": "Jorpati",
+          "contact_number": "014913944, 014911200"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": [
+            "Gopikrishna Hall",
+            "Saraswoti Nagar",
+            "Bhrikutichowk",
+            "Tenjing Chowk",
+            "Muskan Chowk",
+            "Durga Mandir",
+            "Jamdar Chowk"
+          ],
+          "contact_office": "Kapan",
+          "contact_number": "014812792, 014823666"
+        },
+        {
+          "district": "Kathmandu",
+          "ftth_locations": ["Sankhu Area"],
+          "contact_office": "Indrayani",
+          "contact_number": "014450000, 014450466"
+        },
+        {
+          "district": "Kavre",
+          "ftth_locations": [
+            "Banepa NT",
+            "Pradhikaran Chowk",
+            "Pulbazar",
+            "Nala Road",
+            "Panchkhal"
+          ],
+          "contact_office": "Banepa",
+          "contact_number": "011-499122"
+        },
+        {
+          "district": "Kavre",
+          "ftth_locations": ["Banepa", "Dhulikhel"],
+          "contact_office": "Banepa",
+          "contact_number": "011-662222, 011-664601"
+        },
+        {
+          "district": "Kavre",
+          "ftth_locations": ["Banepa", "Panauti"],
+          "contact_office": "Banepa",
+          "contact_number": "011-662308, 011-661066"
+        },
+        {
+          "district": "Kavre",
+          "ftth_locations": [
+            "Melamchi",
+            "Kuntabeshi",
+            "Sipaghat",
+            "Dolalghat",
+            "Tinpiple"
+          ],
+          "contact_office": "Banepa",
+          "contact_number": "011-499111"
+        },
+        {
+          "district": "Lalitpur",
+          "ftth_locations": [
+            "Near Bakhundole",
+            "Sanepa Chowk",
+            "Jhamsikhel",
+            "Ghushingal",
+            "Kupondole",
+            "kandevata sthan",
+            "Bakhundol",
+            "Sumit Hotel Oralo Bakhundol"
+          ],
+          "contact_office": "Patan",
+          "contact_number": "015450499, 015551988"
+        },
+        {
+          "district": "Lalitpur",
+          "ftth_locations": ["Sirutar Chardobato", "sirutar"],
+          "contact_office": "Lubhu",
+          "contact_number": "016633700"
+        },
+        {
+          "district": "Lalitpur",
+          "ftth_locations": [
+            "Sainbu Office",
+            "Binayk Colony",
+            "Janata awas",
+            "Karyabinayak"
+          ],
+          "contact_office": "Saibu",
+          "contact_number": "015592200, 015590900"
+        },
+        {
+          "district": "Lalitpur",
+          "ftth_locations": [
+            "Jharuwarasi",
+            "Naya Basti",
+            "Damaitaar",
+            "Thaiba Chowk"
+          ],
+          "contact_office": "Thaiba",
+          "contact_number": "015552772"
+        },
+        {
+          "district": "Lalitpur",
+          "ftth_locations": [
+            "Civil Homes(Phase 3) Thecho",
+            "Civil Homes(Phase 4) Dhapakhel",
+            "Tallo Dhapakhel(Ward no. 23)",
+            "Mathillo Dhapakhel(Ward no. 24)",
+            "NT Thecho Office area",
+            "Bangge Dhara",
+            "Bethegal",
+            "Jharuwarasi",
+            "Dholahiti",
+            "Sunakothi(Chibahal Gate Area)"
+          ],
+          "contact_office": "Thecho",
+          "contact_number": "015570000"
+        },
+        {
+          "district": "Lalitpur",
+          "ftth_locations": ["Gwarko Area"],
+          "contact_office": "Gwarko",
+          "contact_number": "015524772"
+        },
+        {
+          "district": "Makawanpur",
+          "ftth_locations": [
+            "Bastipur",
+            "Hetauda NT",
+            "Budha Chowk",
+            "Om Bhawan",
+            "Chauki tole woralo",
+            "Loksewa",
+            "Nawalpur"
+          ],
+          "contact_office": "Hetauda",
+          "contact_number": "057-522044, 057-520708, 057-520198"
+        },
+        {
+          "district": "Mayagdi",
+          "ftth_locations": ["Beni Exchange", "Beni Bazar"],
+          "contact_office": "Beni",
+          "contact_number": "069-520111, 069-520122, 069-520198"
+        },
+        {
+          "district": "Morang",
+          "ftth_locations": [
+            "Jaljala Chowk",
+            "Taffic Chowk",
+            "Bijuli Office Chowk",
+            "Hospital Chowk",
+            "Sani Mandir",
+            "Mahendra Chowk",
+            "Banajra Chowk",
+            "Golcha Chowk",
+            "DLTU Green Building",
+            "Gudri Chowk",
+            "Golcha Chowk",
+            "Jaljala Chowk",
+            "Mahendra Marga"
+          ],
+          "contact_office": "Biratnagar",
+          "contact_number": "021-524103, 021-524500"
+        },
+        {
+          "district": "Nawalparasi",
+          "ftth_locations": ["Baadhipidit Area", "CAB.002 Area", "Bardaghat"],
+          "contact_office": "Bardaghat",
+          "contact_number": "075-580101"
+        },
+        {
+          "district": "Nawalparasi",
+          "ftth_locations": ["Parasi"],
+          "contact_office": "Parasi",
+          "contact_number": "078-520666"
+        },
+        {
+          "district": "Nawalparasi",
+          "ftth_locations": [
+            "Milan Chowk",
+            "Silanyas Chowk",
+            "Bhrikuti Chowk",
+            "Congress Chowk",
+            "Bijay Chowk",
+            "Ekleshal Chowk",
+            "Times Pharma Chowk",
+            "Kaligandaki Chowk North",
+            "Kishan Chowk",
+            "Lafa Chowk",
+            "Gairipipal Chowk",
+            "Janaki Ma Vi North",
+            "Kalika Ma Vi Chowk",
+            "Gaida Chowk",
+            "Ganesh Mandir Chowk"
+          ],
+          "contact_office": "NT Office Gaidakot",
+          "contact_number": "078-501234, 078-503222"
+        },
+        {
+          "district": "Nawalparasi (Bardaghat Susta East)",
+          "ftth_locations": [
+            "Thanachowk",
+            "Pragati Chowk/Niure Chowk",
+            "Hall Chowk",
+            "Sabhapati Chowk",
+            "Thakali Chowk",
+            "Manabdharma Chowk",
+            "Samabesi Chowk",
+            "Ramnagar Chowk",
+            "Nabadurga Chowk",
+            "Panchakanya Chowk",
+            "Ekata Chowk",
+            "Shiva Ma Vi. Chowk",
+            "Amarapuri Exchange",
+            "16 no Chowk",
+            "17 no Chowk",
+            "Buddhachowk",
+            "Girubari",
+            "Jhyalbas",
+            "Beluwa",
+            "Chaurangi",
+            "Jukepani Hupsekot",
+            "Chormara Bazaar",
+            "Daldale Chowk",
+            "Pragatinagar Chowk",
+            "Triveni Bazaar",
+            "Triveni NT Office",
+            "Milan Chowk",
+            "Raninagar"
+          ],
+          "contact_office": "NT Office Kawasoti",
+          "contact_number": "078-540066, 078-540166"
+        },
+        {
+          "district": "Palpa",
+          "ftth_locations": ["Palpa"],
+          "contact_office": "Palpa",
+          "contact_number": "075-521198"
+        },
+        {
+          "district": "Parbat",
+          "ftth_locations": ["Kusma"],
+          "contact_office": "Kusma",
+          "contact_number": "067-420198"
+        },
+        {
+          "district": "Parsa",
+          "ftth_locations": ["Adarsanagar"],
+          "contact_office": "Birgunj",
+          "contact_number": "051-521168, 051-522323"
+        },
+        {
+          "district": "Parbat",
+          "ftth_locations": ["Durlung Chowk", "Sajha Chowk", "NT Compound"],
+          "contact_office": "Kushma Parwat"
+        },
+        {
+          "district": "Pyuthan",
+          "ftth_locations": ["Bijaynagar", "Jumri Bazar"],
+          "contact_office": "Bijuwar",
+          "contact_number": "086-420054"
+        },
+        {
+          "district": "Rukum (West)",
+          "ftth_locations": ["Aathbiskot Radi Bazar", "Chaurjahari"],
+          "contact_office": "Rukum",
+          "contact_number": "089-430001"
+        },
+        {
+          "district": "Rupendahi",
+          "ftth_locations": [
+            "Anchalpur",
+            "Milan Chowk",
+            "Exchange Chowk",
+            "Annapurna Tole",
+            "Shiv Mandir"
+          ],
+          "contact_office": "Bhairahawa",
+          "contact_number": "071-520599"
+        },
+        {
+          "district": "Rupendahi",
+          "ftth_locations": [
+            "Mahendra Chowk",
+            "Traffic Chowk",
+            "Amar Path",
+            "Mainabagar East",
+            "Mainabagar West",
+            "Lions Hospital"
+          ],
+          "contact_office": "Butwal",
+          "contact_number": "071-530002"
+        },
+        {
+          "district": "Rupendahi",
+          "ftth_locations": ["Suryapura"],
+          "contact_office": "Suryapura",
+          "contact_number": "071-520599"
+        },
+        {
+          "district": "Rupendahi",
+          "ftth_locations": [
+            "Paramount Chowk",
+            "Nayamill area",
+            "NT Exchange",
+            "Bhaktapur Chowk Area"
+          ],
+          "contact_office": "Mangalapur",
+          "contact_number": "071-560000"
+        },
+        {
+          "district": "Salyan",
+          "ftth_locations": [
+            "Salyan Khalanga",
+            "Shreenagar(Sitalpati)",
+            "Kapurkot"
+          ],
+          "contact_office": "Salyan",
+          "contact_number": "088-520100"
+        },
+        {
+          "district": "Sindhuli",
+          "ftth_locations": ["Khurkot"],
+          "contact_office": "Khurkot",
+          "contact_number": "047-520111, 047-520222"
+        },
+        {
+          "district": "Sindhupanchowk",
+          "ftth_locations": ["Tatopani Dry Port"],
+          "contact_office": "Tatopani",
+          "contact_number": "011-480131, 011-480100"
+        },
+        {
+          "district": "Sindhupanchowk",
+          "ftth_locations": ["Chautara"],
+          "contact_office": "Chautara",
+          "contact_number": "011-620011, 011-620001"
+        },
+        {
+          "district": "Sindhupanchowk",
+          "ftth_locations": ["Barabise"],
+          "contact_office": "Barabise",
+          "contact_number": "011-489200, 011-489002"
+        },
+        {
+          "district": "Solukhumbu",
+          "ftth_locations": ["Chaurikharka"],
+          "contact_office": "Lukla",
+          "contact_number": "038-550011, 038-550001"
+        },
+        {
+          "district": "Sunsari",
+          "ftth_locations": [
+            "Sangeet Chowk",
+            "Tyangra Pool",
+            "Birendra Chowk",
+            "North West Area"
+          ],
+          "contact_office": "Itahari",
+          "contact_number": "025-587000, 025-588000"
+        },
+        {
+          "district": "Sunsari",
+          "ftth_locations": ["Balmandir", "Supermarket Chowk"],
+          "contact_office": "Inaruwa",
+          "contact_number": "025-565444, 025-565555"
+        },
+        {
+          "district": "Surkhet",
+          "ftth_locations": [
+            "Bazar near #019",
+            "Birendra chowk",
+            "Botechaur",
+            "Chhinchu",
+            "Ghusra",
+            "Jahare",
+            "Mehalkuna",
+            "Sallibazar"
+          ],
+          "contact_office": "Surkhet",
+          "contact_number": "083-520500, 083-520666"
+        },
+        {
+          "district": "Tanahu",
+          "ftth_locations": [
+            "Damauli Bazaar",
+            "Safa sadak Chowk",
+            "galbu besi",
+            "bhadgaun"
+          ],
+          "contact_office": "Damauli",
+          "contact_number": "065-563666, 065-560444"
+        },
+        {
+          "district": "Tanahu",
+          "ftth_locations": ["Dulegaunda"],
+          "contact_office": "Dulegaunda",
+          "contact_number": "065-571444"
+        },
+        {
+          "district": "Tanahu",
+          "ftth_locations": ["Abukhaireni"],
+          "contact_office": "Abukhaireni",
+          "contact_number": "065-540122"
+        }
+      ]
+    }
+  }
+}

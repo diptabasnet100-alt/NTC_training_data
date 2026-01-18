@@ -1,0 +1,315 @@
+{
+    "services": [
+      {
+        "service_name": "NTTV",
+        "information_url": "www.nttv.com.np",
+        "service_type": "Television"
+      },
+      {
+        "service_name": "SMS Alert",
+        "service_type": "SMS Based VAS Service",
+        "description": "A One-way Mobile Termination service on which customers can't send any response. Useful for Financial Transaction alerts, payment confirmation alerts, marketing & promotion messages, personalized messages, etc.",
+        "prerequisites": "Requires a technical test with the client or Value Added Service Provider (VASP) before commercial operation. Alert_name is assigned in place of numeric Short-Code.",
+        "rates": {
+          "for_private_companies": [
+            {
+              "minimum_monthly_sms_quota_range": "3,000 - 1,00,000",
+              "tariff_nrs_excluding_tax": 0.50,
+              "required_deposit_bank_guarantee_nrs": 100000
+            },
+            {
+              "minimum_monthly_sms_quota_range": "1,00,001 - 10,00,000",
+              "tariff_nrs_excluding_tax": 0.40,
+              "required_deposit_bank_guarantee_nrs": 100000
+            },
+            {
+              "minimum_monthly_sms_quota_range": "10,00,001 - 30,00,000",
+              "tariff_nrs_excluding_tax": 0.30,
+              "required_deposit_bank_guarantee_nrs": 100000
+            },
+            {
+              "minimum_monthly_sms_quota_range": "Above 30,00,000",
+              "tariff_nrs_excluding_tax": 0.20,
+              "required_deposit_bank_guarantee_nrs": 100000
+            }
+          ],
+          "for_government": [
+            {
+              "minimum_monthly_sms_quota_range": "1,000 - 5,00,000",
+              "tariff_nrs_excluding_tax": 0.30,
+              "required_deposit_bank_guarantee_nrs": "Not Required"
+            },
+            {
+              "minimum_monthly_sms_quota_range": "Above 5,00,000",
+              "tariff_nrs_excluding_tax": 0.20,
+              "required_deposit_bank_guarantee_nrs": "Not Required"
+            }
+          ],
+          "billing_notes": [
+            "Customers do not need to select a specific slab (tier).",
+            "Minimum monthly SMS quota must be sent: 5,000 for private, 1,000 for government.",
+            "If minimum quota is not sent, billing is still calculated at the minimum quota (3,000 for private, 1,000 for government).",
+            "Billing is done at the rate of the slab the total SMS volume falls into.",
+            "The specified amount as Bank Guarantee or Cash Deposit is required (for private companies)."
+          ]
+        }
+      },
+      {
+        "service_name": "SMS Short Code",
+        "service_type": "SMS Based VAS Service",
+        "description": "An interactive SMS service where customers can also send a response or queries on services like Exam Results, Polling, Voting, Quiz services, marketing & promotion messages, etc.",
+        "prerequisites": "Requires technical tests and NTA approval before commercial operation. A numeric short-code is assigned for the client or VASP."
+      },
+      {
+        "service_name": "Web-based Bulk SMS",
+        "service_type": "SMS Based VAS Service",
+        "description": "A broadcast service where several customers get the same message from the sending party. Suitable for organizations like schools, colleges, business houses, SMEs, or other organizations that wish to send the same message to several customers simultaneously.",
+        "advantages": "Highly subsidized cost, ease of use, and less time to implement.",
+        "implementation_note": "Does not require any technical test and can be started within a working day. An alphanumeric code is assigned to the client.",
+        "portal_url": "https://groupsms.ntc.net.np",
+        "portal_features": [
+          "Users can upload phone contacts in an Excel sheet (1000 numbers at one time).",
+          "Cost is inclusive of all application taxes."
+        ],
+        "rates": {
+          "for_private_companies": [
+            {
+              "sms_volume": "2,000 - 1,00,000",
+              "tariff_nrs_excluding_tax": 0.50,
+              "validity": "3 Month"
+            },
+            {
+              "sms_volume": "1,00,001 - 5,00,000",
+              "tariff_nrs_excluding_tax": 0.40,
+              "validity": "6 Month"
+            },
+            {
+              "sms_volume": "5,00,001 - 10,00,000",
+              "tariff_nrs_excluding_tax": 0.30,
+              "validity": "9 Month"
+            },
+            {
+              "sms_volume": "10,00,000 Above",
+              "tariff_nrs_excluding_tax": 0.20,
+              "validity": "1 Year"
+            }
+          ],
+          "for_government": [
+            {
+              "sms_volume": "1,500 - 10,000",
+              "tariff_nrs_excluding_tax": 0.50,
+              "validity": "3 Month"
+            },
+            {
+              "sms_volume": "10,001 - 1,00,000",
+              "tariff_nrs_excluding_tax": 0.50,
+              "validity": "6 Month"
+            },
+            {
+              "sms_volume": "1,00,001 - 5,00,000",
+              "tariff_nrs_excluding_tax": 0.40,
+              "validity": "6 Month"
+            },
+            {
+              "sms_volume": "5,00,001 - 10,00,000",
+              "tariff_nrs_excluding_tax": 0.25,
+              "validity": "1 Year"
+            },
+            {
+              "sms_volume": "10,00,000 Above",
+              "tariff_nrs_excluding_tax": 0.20,
+              "validity": "1 Year"
+            }
+          ],
+          "purchase_note": "Web Based Bulk SMS is purchased in advance. The minimum quota (1,500 SMS) or the amount for the chosen slab, including tax, must be paid upfront to the designated bank account. After payment, the corresponding SMS quota and the validity period are added to the account. Incremental Basis is not applied."
+        },
+        "bank_info": {
+          "bank_name": "Nepal Investment Mega Bank Ltd., Durbarmarg Branch",
+          "account_name": "Nepal Telecom DWT Revenue",
+          "account_no": "00101010068291"
+        }
+      },
+      {
+        "service_name": "CRBT (Caller Tune)",
+        "service_type": "VAS Service",
+        "tariff": {
+          "subscription_monthly_nrs": 20,
+          "subscription_weekly_nrs": 5,
+          "tone_charge_monthly_nrs": 10,
+          "tone_charge_weekly_nrs": 2.5,
+          "note": "Tariff exclusive of TSC and VAT"
+        },
+        "subscription_methods": [
+          {
+            "method": "SMS",
+            "instruction": "Type SUB and send SMS to 1455"
+          },
+          {
+            "method": "IVR",
+            "instruction": "Dial 1455"
+          }
+        ],
+        "song_purchase_methods": [
+          {
+            "method": "IVR",
+            "instruction": "Dial 1455 & follow categories (Top10, Nepali Songs, etc.), select song for all or special callers. Unsubscribe also available."
+          },
+          {
+            "method": "USSD",
+            "instruction": "Dial *1455#, follow categories, check list, select song. Unsubscribe also available."
+          },
+          {
+            "method": "SMS",
+            "instruction": "Type 'Sub Song_Key_Word' (e.g., Sub 0692xxx) and send SMS to 1455. Send TOP to 1455 to see Top Songs."
+          },
+          {
+            "method": "Copy from others",
+            "instruction": "Dial *9 to copy and set your ringtone when you hear a nice ringtone while calling others."
+          }
+        ],
+        "unsubscription_methods": [
+          {
+            "method": "SMS",
+            "instruction": "Type UNSUB and Send SMS to 1455"
+          },
+          {
+            "method": "IVR",
+            "instruction": "Dial 1455"
+          },
+          {
+            "method": "USSD",
+            "instruction": "Dial *1455#"
+          }
+        ],
+        "note": "IVR Call is free for up to 3 minutes; local call tariff applies after 3 minutes. Weekly subscription is a fallback option if balance is insufficient for monthly subscription."
+      },
+      {
+        "service_name": "Missed Call Alert (MCA)",
+        "service_type": "VAS Service",
+        "description": "Informs customers about all calls missed while being away from the network (Busy, Switched Off, or Unreachable).",
+        "cost": "FREE",
+        "mode": "Recurring (auto-renewal, no need to resubscribe).",
+        "message_format": "You have missed call from 984XXXXXXX(number) at 2018-05-29 00:00:01.",
+        "subscription_methods": [
+          {
+            "method": "USSD",
+            "instruction": "Dial *1400#, select option 1 (Subscribe MCA)."
+          },
+          {
+            "method": "SMS",
+            "instruction": "Type 'sub mca' and send SMS to 1400."
+          },
+          {
+            "method": "Mobile App",
+            "instruction": "Download Nepal Telecom app, register, go to 'VAS' menu to subscribe."
+          }
+        ],
+        "unsubscription_methods": [
+          {
+            "method": "USSD",
+            "instruction": "Dial *1400#, select option 2 (Unsubscribe MCA)."
+          },
+          {
+            "method": "SMS",
+            "instruction": "Type 'unsub mca' and send SMS to 1400."
+          },
+          {
+            "method": "Mobile App",
+            "instruction": "Manage via 'VAS' menu in the Nepal Telecom app."
+          }
+        ],
+        "status_check_methods": [
+          {
+            "method": "USSD",
+            "instruction": "Dial *1400#, select option 3 (Query MCA Status)."
+          },
+          {
+            "method": "SMS",
+            "instruction": "Type 'status' and send SMS to 1400."
+          },
+          {
+            "method": "Mobile App",
+            "instruction": "Check via 'VAS' menu in the Nepal Telecom app."
+          }
+        ],
+        "additional_info": [
+          "Service is available while roaming on partner networks.",
+          "For issues, call 1498."
+        ]
+      },
+      {
+        "service_name": "Namaste Credit",
+        "service_type": "VAS Service",
+        "description": "Sapati Service for Prepaid Customers offering credit for calls.",
+        "features": [
+          "NO CALL DROP, NO EXTRA CHARGES.",
+          "Only Pay used credit.",
+          "Payment of debt is taken from the next top-up.",
+          "Partial recovery if top-up is less than total debt (threshold is 60%)."
+        ],
+        "shortcode": "1477",
+        "eligibility": "Available only to prepaid users who have used the Prepaid Service for 3 or more months. Credit amount depends on network usage, recharge frequency/amount, and SIM card age.",
+        "credit_amount": "Rs. 20",
+        "subscription": {
+          "method": "SMS",
+          "instruction": "Type 'Start' and Send SMS to 1477."
+        },
+        "status_check": {
+          "method": "SMS",
+          "instruction": "Type 'Status' and Send SMS to 1477."
+        },
+        "stop_service": {
+          "method": "SMS",
+          "instruction": "Type 'Stop' and Send SMS to 1477."
+        }
+      }
+    ],
+    "general_process_for_sms_vas": {
+      "sms_alert_and_short_code": {
+        "steps": [
+          "Prepare a formal request letter including company profile, service purpose, and target customer/client base.",
+          "Submit Company Registration and Tax Registration Copy.",
+          "Submit complete request letter to the contact address.",
+          "Note: The requesting company must have their own SMS application/system ready before contacting Nepal Telecom. NT will provide the required connection."
+        ]
+      },
+      "web_based_bulk_sms": {
+        "steps": [
+          "Prepare a formal request letter including company profile, purpose, and target customer/client base.",
+          "Submit Company Registration and Tax Registration Copy.",
+          "Submit complete request letter to the contact address.",
+          "Upon NT's response, prepare for contract signing.",
+          "Submit the required amount based on SMS volume quota to the designated bank account.",
+          "After payment, a user account is created. Login credentials are sent via email for the portal with stepwise SMS transmission process.",
+          "Note: The requesting company does NOT need their own system for this service."
+        ]
+      }
+    },
+    "list_of_sms_service_providers": [
+      {"service_provider": "Aakash Tech Pvt. Ltd.", "address": "Naxal, KTM", "service": "SMS", "contact_number": "9851195578", "contact_person": "Brijesh Gupta"},
+      {"service_provider": "Access World Tech Pvt. Ltd.", "address": "Patandhoka, Lalitpur", "service": "SMS", "contact_number": "9851063321", "contact_person": "Uttam Luitel"},
+      {"service_provider": "Easy Digital Service Pvt. Ltd.", "address": "Buddhanagar, KTM", "service": "SMS", "contact_number": "9851146332", "contact_person": "Narendra Bahadur Chand"},
+      {"service_provider": "EASY SERVICE PVT. LTD", "address": "Shankhamul, KTM", "service": "SMS", "contact_number": "9851219459", "contact_person": "Surendra chand"},
+      {"service_provider": "F1 SOFT INTERNATIONAL", "address": "Pulchowk, Lalitpur", "service": "SMS", "contact_number": "9841452132", "contact_person": "Santosh Basnet"},
+      {"service_provider": "Infocom Solutions Pvt. Ltd.", "address": "Hattisar, KTM", "service": "SMS", "contact_number": "9741861783", "contact_person": "Anish Bajracharya"},
+      {"service_provider": "JANAKI TECHNOLOGY PVT. LTD.", "address": "Sanepa-02, Lalitpur", "service": "SMS", "contact_number": "9851128410", "contact_person": "Arvind Sah"},
+      {"service_provider": "Jetsons Digital Pvt. Ltd", "address": "KTM-11, Tripureshwor", "service": "SMS", "contact_number": "9861849475", "contact_person": "Sunil Katwal"},
+      {"service_provider": "Karuna Technology Pvt. Ltd.", "address": "Maitidevi, KTM", "service": "SMS", "contact_number": "9855065526", "contact_person": "Santosh Aryal"},
+      {"service_provider": "Lotus I.T. Nepal Pvt. Ltd.", "address": "Kalikasthan, KTM", "service": "USSD", "contact_number": "9851333801", "contact_person": "Arjun Lama"},
+      {"service_provider": "MetaCloud Solutions Pvt. Ltd.", "address": "KTM-11, Thapathali", "service": "SMS", "contact_number": "9849670775", "contact_person": "Yaju shrestha"},
+      {"service_provider": "Nitya Shree Developers", "address": "Harihar Bhawan, Pulchok", "service": "SMS", "contact_number": "9849654318", "contact_person": "Puspendra Khadka"},
+      {"service_provider": "ONE UP COMMUNICATION PVT. LTD.", "address": "Anamnagar, KTM", "service": "SMS", "contact_number": "9851163281", "contact_person": "Nikesh Koirala"},
+      {"service_provider": "Rich Tech Pvt. Ltd", "address": "KTM-31, Shantinagar", "service": "SMS", "contact_number": "9843815980", "contact_person": "Bikash Siwakoti"},
+      {"service_provider": "Samaya Technology Pvt. Ltd.", "address": "Sitapaila, KTM", "service": "SMS", "contact_number": "9851188512", "contact_person": "Bishnu Prasad Sharma"},
+      {"service_provider": "Spell Innovation Pvt. Ltd.", "address": "Mid-Baneshwor, KTM", "service": "SMS", "contact_number": "9848048781", "contact_person": "Dhani Ram Sapkota"},
+      {"service_provider": "Summus Tech Pvt. Ltd", "address": "KTM-10, New-Baneshwor", "service": "USSD", "contact_number": "9851344222", "contact_person": "Yubaraj Prasai"},
+      {"service_provider": "Swift Technology Private Limited", "address": "Panipokhari, KTM", "service": "SMS", "contact_number": "9842262163", "contact_person": "Nabaraj Poudel"},
+      {"service_provider": "TELENET PVT. LTD", "address": "Tripureshwor, KTM", "service": "SMS", "contact_number": "9851121453", "contact_person": "Samir Shrestha"}
+    ],
+    "contact_info": {
+      "department": "Nepal Telecom, Office of CCO, Strategy Implementation & VAS",
+      "address": "Head Office, Bhadrakali, Kathmandu",
+      "email": "vas@ntc.net.np",
+      "phone": "014210242"
+    }
+  }

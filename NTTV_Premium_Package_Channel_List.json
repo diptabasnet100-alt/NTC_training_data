@@ -1,0 +1,214 @@
+{
+  "tv_package": {
+    "package_name": "NTTV Premium Package",
+    "categories": [
+      {
+        "category_name": "Nepali",
+        "channels": [
+          { "channel_name": "Kantipur HD", "resolution": "HD" },
+          { "channel_name": "Nepal TV HD", "resolution": "HD" },
+          { "channel_name": "NTV News HD", "resolution": "HD" },
+          { "channel_name": "NTV Plus HD", "resolution": "HD" },
+          { "channel_name": "AP1 HD", "resolution": "HD" },
+          { "channel_name": "Himalayan TV HD", "resolution": "HD" },
+          { "channel_name": "News 24", "resolution": "SD" },
+          { "channel_name": "Image Channel", "resolution": "SD" },
+          { "channel_name": "Sagarmatha TV", "resolution": "SD" },
+          { "channel_name": "Janata HD", "resolution": "HD" },
+          { "channel_name": "Avenuse TV", "resolution": "SD" },
+          { "channel_name": "Mountain TV", "resolution": "HD" },
+          { "channel_name": "Prime Times", "resolution": "SD" },
+          { "channel_name": "ABC News", "resolution": "SD" },
+          { "channel_name": "Business TV Nepal", "resolution": "SD" },
+          { "channel_name": "TV Today", "resolution": "SD" },
+          { "channel_name": "NTV Itahari HD", "resolution": "HD" },
+          { "channel_name": "NTV KohalpurHD", "resolution": "HD" },
+          { "channel_name": "Kantipur Cineplex HD", "resolution": "HD" },
+          { "channel_name": "Business Plus", "resolution": "HD" },
+          { "channel_name": "TV Filmy", "resolution": "SD" },
+          { "channel_name": "YOHO TV HD", "resolution": "HD" },
+          { "channel_name": "Bodhi TV HD", "resolution": "HD" },
+          { "channel_name": "Channel4 Nepal", "resolution": "SD" },
+          { "channel_name": "Life Ok Nepal", "resolution": "HD" },
+          { "channel_name": "Capital TV", "resolution": "HD" },
+          { "channel_name": "National Gold", "resolution": "HD" },
+          { "channel_name": "Bhadgaun TV", "resolution": "SD" },
+          { "channel_name": "INDIGENOUS Television", "resolution": "SD" },
+          { "channel_name": "Everest TV HD", "resolution": "HD" },
+          { "channel_name": "My TV", "resolution": "SD" },
+          { "channel_name": "Newa TV", "resolution": "SD" },
+          { "channel_name": "Bhairawa TV", "resolution": "HD" },
+          { "channel_name": "Global TV", "resolution": "HD" },
+          { "channel_name": "Paryawaran TV", "resolution": "HD" },
+          { "channel_name": "DEUTI HD", "resolution": "HD" },
+          { "channel_name": "Zee Nepal HD", "resolution": "HD" },
+          { "channel_name": "Arena TV", "resolution": "SD" },
+          { "channel_name": "Nepal Mandal", "resolution": "SD" },
+          { "channel_name": "Yes TV", "resolution": "SD" },
+          { "channel_name": "KASTAMANDAP", "resolution": "SD" },
+          { "channel_name": "Rajya TV HD", "resolution": "HD" },
+          { "channel_name": "Kishan TV HD", "resolution": "HD" },
+          { "channel_name": "Jansanchar", "resolution": "HD" },
+          { "channel_name": "TV Birjung", "resolution": "SD" },
+          { "channel_name": "MEGA TV", "resolution": "SD" },
+          { "channel_name": "Saptarangi TV", "resolution": "HD" },
+          { "channel_name": "Education TV", "resolution": "SD" },
+          { "channel_name": "Metv", "resolution": "HD" }
+        ]
+      },
+      {
+        "category_name": "Movies",
+        "channels": [
+          { "channel_name": "Star Movies HD", "resolution": "HD" },
+          { "channel_name": "Star Movies Select HD", "resolution": "HD" },
+          { "channel_name": "Star Gold HD", "resolution": "HD" },
+          { "channel_name": "Sony Pix SD", "resolution": "SD" },
+          { "channel_name": "Sony Max SD", "resolution": "SD" },
+          { "channel_name": "Sony Max2 SD", "resolution": "SD" },
+          { "channel_name": "AND PICTURES HD", "resolution": "HD" },
+          { "channel_name": "Zee Cinema HD", "resolution": "HD" },
+          { "channel_name": "Star Gold", "resolution": "SD" },
+          { "channel_name": "Zee Bollywood", "resolution": "SD" },
+          { "channel_name": "Zee Action", "resolution": "SD" },
+          { "channel_name": "Lotas Macau", "resolution": "SD" },
+          { "channel_name": "Star Utsab Movies", "resolution": "SD" },
+          { "channel_name": "B4U Movies APAC", "resolution": "SD" },
+          { "channel_name": "Cineplex HD", "resolution": "HD" },
+          { "channel_name": "Sony Max HD", "resolution": "HD" },
+          { "channel_name": "Star Gold 2", "resolution": "SD" },
+          { "channel_name": "Star Gold Select HD", "resolution": "HD" },
+          { "channel_name": "Star Gold Select", "resolution": "SD" },
+          { "channel_name": "Star Movies", "resolution": "SD" },
+          { "channel_name": "ME TV HD", "resolution": "HD" }
+        ]
+      },
+      {
+        "category_name": "Entertainment",
+        "channels": [
+          { "channel_name": "Zee TV HD", "resolution": "HD" },
+          { "channel_name": "Zee Café HD", "resolution": "HD" },
+          { "channel_name": "AND TV HD", "resolution": "HD" },
+          { "channel_name": "Star Plus HD", "resolution": "HD" },
+          { "channel_name": "Star Bharat HD", "resolution": "HD" },
+          { "channel_name": "Zee anmol", "resolution": "SD" },
+          { "channel_name": "Star Plus", "resolution": "SD" },
+          { "channel_name": "Sony Entertainment HD", "resolution": "HD" },
+          { "channel_name": "Sony Sab HD", "resolution": "HD" },
+          { "channel_name": "Comedy Central", "resolution": "SD" },
+          { "channel_name": "Colors Infinity", "resolution": "SD" },
+          { "channel_name": "Colors HD", "resolution": "HD" },
+          { "channel_name": "Sony Entertainment SD", "resolution": "SD" },
+          { "channel_name": "Sony Sab SD", "resolution": "SD" },
+          { "channel_name": "Sony Pal SD", "resolution": "SD" },
+          { "channel_name": "Colors SD", "resolution": "SD" },
+          { "channel_name": "Disney International HD", "resolution": "HD" },
+          { "channel_name": "Foxlife HD", "resolution": "HD" },
+          { "channel_name": "Star Bharat", "resolution": "SD" }
+        ]
+      },
+      {
+        "category_name": "News",
+        "channels": [
+          { "channel_name": "BBC News", "resolution": "SD" },
+          { "channel_name": "Al Jazeera HD", "resolution": "HD" },
+          { "channel_name": "France 24 English HD", "resolution": "HD" },
+          { "channel_name": "TRT World HD", "resolution": "HD" },
+          { "channel_name": "News Asia HD", "resolution": "HD" },
+          { "channel_name": "RT English HD", "resolution": "HD" },
+          { "channel_name": "CGTN HD", "resolution": "HD" },
+          { "channel_name": "Euro News English", "resolution": "HD" },
+          { "channel_name": "CNN", "resolution": "SD" },
+          { "channel_name": "Zee News", "resolution": "SD" },
+          { "channel_name": "Zee Business", "resolution": "SD" }
+        ]
+      },
+      {
+        "category_name": "Music",
+        "channels": [
+          { "channel_name": "J MUSIC HD", "resolution": "SD" },
+          { "channel_name": "ZING", "resolution": "HD" }
+        ]
+      },
+      {
+        "category_name": "Adventure",
+        "channels": [
+          { "channel_name": "Nat Geo Wild HD", "resolution": "HD" },
+          { "channel_name": "National Geographic", "resolution": "HD" },
+          { "channel_name": "CGTN Documentary", "resolution": "SD" },
+          { "channel_name": "National Geographic", "resolution": "SD" },
+          { "channel_name": "HistoryTV 18", "resolution": "SD" },
+          { "channel_name": "Animal Planet", "resolution": "HD" },
+          { "channel_name": "Discovery HD", "resolution": "HD" },
+          { "channel_name": "TLC HD WORLD", "resolution": "HD" },
+          { "channel_name": "Sony BBC Earth HD", "resolution": "HD" },
+          { "channel_name": "Discovery Turbo", "resolution": "SD" }
+        ]
+      },
+      {
+        "category_name": "Sports",
+        "channels": [
+          { "channel_name": "Fight Sports HD", "resolution": "HD" },
+          { "channel_name": "Star Sports 1 HD", "resolution": "HD" },
+          { "channel_name": "Star Sports 2 HD", "resolution": "HD" },
+          { "channel_name": "Star Sports 1 hindi HD", "resolution": "HD" },
+          { "channel_name": "Star Sports Select HD 1", "resolution": "HD" },
+          { "channel_name": "Star Sports Select HD 2", "resolution": "HD" },
+          { "channel_name": "Star Sports Select 1", "resolution": "SD" },
+          { "channel_name": "Star Sports Select 2", "resolution": "SD" },
+          { "channel_name": "Star Sports 1", "resolution": "SD" },
+          { "channel_name": "Star Sports 2", "resolution": "SD" },
+          { "channel_name": "Star Sports 1 hindi", "resolution": "SD" },
+          { "channel_name": "DD SPORTS", "resolution": "SD" },
+          { "channel_name": "Sony Ten 1 HD", "resolution": "HD" },
+          { "channel_name": "Sony Ten 2 HD", "resolution": "HD" },
+          { "channel_name": "Sony Ten 3 HD", "resolution": "HD" },
+          { "channel_name": "Sony Six HD", "resolution": "HD" },
+          { "channel_name": "Sony Ten 2 SD", "resolution": "SD" }
+        ]
+      },
+      {
+        "category_name": "Kids",
+        "channels": [
+          { "channel_name": "Cbeebies Asia HD", "resolution": "HD" },
+          { "channel_name": "Disney Junior", "resolution": "SD" },
+          { "channel_name": "Disney Channel", "resolution": "SD" },
+          { "channel_name": "Hungama TV", "resolution": "SD" },
+          { "channel_name": "Nick India", "resolution": "SD" },
+          { "channel_name": "Discovery Kids", "resolution": "SD" },
+          { "channel_name": "Sonic Nickelodeon", "resolution": "SD" },
+          { "channel_name": "Nick jr", "resolution": "HD" }
+        ]
+      },
+      {
+        "category_name": "Spiritual & Life",
+        "channels": [
+          { "channel_name": "Bhakti Darshan", "resolution": "SD" },
+          { "channel_name": "PEACE OF MIND", "resolution": "HD" },
+          { "channel_name": "Sanskar TV", "resolution": "SD" },
+          { "channel_name": "Peace Tv Urdu", "resolution": "SD" },
+          { "channel_name": "Madani Channel", "resolution": "SD" },
+          { "channel_name": "DAYSTAR", "resolution": "SD" },
+          { "channel_name": "Zee Classic", "resolution": "SD" }
+        ]
+      },
+      {
+        "category_name": "International",
+        "channels": [
+          { "channel_name": "NHK World TV", "resolution": "SD" },
+          { "channel_name": "Arirang HD", "resolution": "HD" },
+          { "channel_name": "DW-TV HD", "resolution": "HD" },
+          { "channel_name": "TV 5 MONDE", "resolution": "SD" },
+          { "channel_name": "Fashion TV Asia HD", "resolution": "HD" },
+          { "channel_name": "KBS WORLD 24", "resolution": "SD" },
+          { "channel_name": "NHK premium HD", "resolution": "HD" }
+        ]
+      }
+    ],
+    "summary": {
+      "total_categories": 10,
+      "total_channels": 151,
+      "hd_channels": 84,
+      "sd_channels": 67
+    }
+  }
+}

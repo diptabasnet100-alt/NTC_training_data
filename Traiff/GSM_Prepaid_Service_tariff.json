@@ -1,0 +1,110 @@
+{
+    "service_category": "GSM Prepaid Service Tariff",
+    "sim_cost": {
+        "price": "Re. 90",
+        "includes": [
+            "talk-time worth of Re. 10",
+            "Free Resource of 40 min. voice",
+            "20 SMS",
+            "300 MB Data"
+        ],
+        "note": "SIM Cost is including Ownership Tax"
+    },
+    "call_charges": {
+        "voice_call": [
+            {
+                "network_type": "inside NT Network",
+                "charge": "Re. 1.5 Per Minute"
+            },
+            {
+                "network_type": "Other Network",
+                "charge": "Re. 2 Per Minute"
+            }
+        ],
+        "video_call": {
+            "charge": "Re. 2.00 per minute"
+        }
+    },
+    "data_charges": [
+        {
+            "type": "Pay As You Go",
+            "charge": "Re.1/MB"
+        },
+        {
+            "type": "Package data",
+            "charge": "based on the type of package purchased",
+            "view_packages": "here>>"
+        }
+    ],
+    "sms_charges": {
+        "inside_nt": "Re. 1",
+        "other_operator": "Re.1.25",
+        "international_link_text": "Click Here to Know the International Outgoing SMS Tariff"
+    },
+    "sim_change_charge": "Re. 50",
+    "recharge_card_validity": [
+        {
+            "card_type": "Re. 50",
+            "validity_period": "25 Days"
+        },
+        {
+            "card_type": "Re. 100",
+            "validity_period": "55 Days"
+        },
+        {
+            "card_type": "Re. 200",
+            "validity_period": "130 Days"
+        },
+        {
+            "card_type": "Re. 500",
+            "validity_period": "330 Days"
+        },
+        {
+            "card_type": "Re. 1000",
+            "validity_period": "690 Days"
+        }
+    ],
+    "mpos_recharge_validity": [
+        {
+            "amount_range": "Re. 20-29.99",
+            "validity_period": "7 Days"
+        },
+        {
+            "amount_range": "Re. 30-39.99",
+            "validity_period": "14 Days"
+        },
+        {
+            "amount_range": "Re. 40-49.99",
+            "validity_period": "14 Days"
+        },
+        {
+            "amount_range": "Re. 50-99.99",
+            "validity_period": "25 Days"
+        },
+        {
+            "amount_range": "Re. 100-149.99",
+            "validity_period": "55 Days"
+        },
+        {
+            "amount_range": "Re. 150-199.99",
+            "validity_period": "75 Days"
+        },
+        {
+            "amount_range": "Re. 200-299.99",
+            "validity_period": "130 Days"
+        },
+        {
+            "amount_range": "Re. 300-499.99",
+            "validity_period": "180 Days"
+        },
+        {
+            "amount_range": "Re. 500-999.99",
+            "validity_period": "330 Days"
+        },
+        {
+            "amount_range": "Re. 1000-above",
+            "validity_period": "690 Days"
+        }
+    ],
+    "note": "All charges are exclusive of Taxes"
+}
