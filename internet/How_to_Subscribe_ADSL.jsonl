@@ -1,43 +1,17 @@
-{
-  "service_name": "Nepal Telecom ADSL Subscription",
-  "prerequisite": "You must have an active PSTN (landline) phone line from Nepal Telecom.",
-  "application_process": {
-    "step_1": "Visit your local Nepal Telecom office (the one managing your landline).",
-    "step_2": "Submit the official ADSL subscription form.",
-    "step_3": "Provide required documents (see 'required_documents').",
-    "step_4": "Mention if your phone line has 'Home Metering (16 KHz)' facility.",
-    "step_5": "Nepal Telecom reviews technical feasibility (takes up to 7 days).",
-    "step_6": "If feasible, you will be contacted for initial payment.",
-    "step_7": "After payment, you receive your username, password, and connection instructions."
-  },
-  "required_documents": {
-    "for_individuals": [
-      "Duly filled ADSL application form",
-      "Photocopy of citizenship certificate"
-    ],
-    "for_companies": [
-      "Duly filled ADSL application form",
-      "Company registration certificate",
-      "Photocopy of proprietor's citizenship certificate"
-    ]
-  },
-  "important_notes": {
-    "critical_warning": "If your phone line has Home Metering (16 KHz) facility, you must mention this during application. You will need to purchase and install a splitter that supports Home Metering, otherwise this feature will stop working after ADSL is activated.",
-    "service_activation": "NT will provide the broadband service within 7 days of application, based on technical feasibility.",
-    "equipment_responsibility": {
-      "note": "Subscriber must arrange the CPE (Customer Premises Equipment - ADSL 2+ modem/router) with splitter from the local market. NT does not provide CPE.",
-      "responsibility": "Installation, configuration, and maintenance of the CPE is the sole responsibility of the subscriber."
-    },
-    "billing_options": "Customer can subscribe on a Monthly basis or on a Volume (prepaid data pack) basis.",
-    "service_policy": "The services are available on a First Come First Serve basis."
-  },
-  "post_subscription_setup": {
-    "modem_configuration": "Subscriber must configure the purchased modem with standard NT settings.",
-    "standard_nt_settings": {
-      "vpi": "8",
-      "vci": "81",
-      "encapsulation_routing": "PPPoE/LLC",
-      "encapsulation_bridge": "LLC"
-    }
-  }
-}
+{"service_name": "Nepal Telecom ADSL Subscription", "prerequisite": "You must have an active PSTN (landline) phone line from Nepal Telecom."}
+{"application_step": "Visit your local Nepal Telecom office (the one managing your landline).", "step_number": 1}
+{"application_step": "Submit the official ADSL subscription form.", "step_number": 2}
+{"application_step": "Provide required documents (see 'required_documents').", "step_number": 3}
+{"application_step": "Mention if your phone line has 'Home Metering (16 KHz)' facility.", "step_number": 4}
+{"application_step": "Nepal Telecom reviews technical feasibility (takes up to 7 days).", "step_number": 5}
+{"application_step": "If feasible, you will be contacted for initial payment.", "step_number": 6}
+{"application_step": "After payment, you receive your username, password, and connection instructions.", "step_number": 7}
+{"document_for": "Individuals", "required_documents": ["Duly filled ADSL application form", "Photocopy of citizenship certificate"]}
+{"document_for": "Companies", "required_documents": ["Duly filled ADSL application form", "Company registration certificate", "Photocopy of proprietor's citizenship certificate"]}
+{"critical_warning": "If your phone line has Home Metering (16 KHz) facility, you must mention this during application. You will need to purchase and install a splitter that supports Home Metering, otherwise this feature will stop working after ADSL is activated."}
+{"service_activation_note": "NT will provide the broadband service within 7 days of application, based on technical feasibility."}
+{"equipment_note": "Subscriber must arrange the CPE (Customer Premises Equipment - ADSL 2+ modem/router) with splitter from the local market. NT does not provide CPE.", "equipment_responsibility": "Installation, configuration, and maintenance of the CPE is the sole responsibility of the subscriber."}
+{"billing_options": "Customer can subscribe on a Monthly basis or on a Volume (prepaid data pack) basis."}
+{"service_policy": "The services are available on a First Come First Serve basis."}
+{"post_subscription_action": "Subscriber must configure the purchased modem with standard NT settings."}
+{"vpi": "8", "vci": "81", "encapsulation_routing": "PPPoE/LLC", "encapsulation_bridge": "LLC"}

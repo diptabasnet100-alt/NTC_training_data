@@ -1,90 +1,13 @@
-{
-    "service": {
-      "service_name": "Namaste Wi-Fi",
-      "description": "The Namaste WiFi Package with bundled CPE device cost (included SIM)",
-      "form_url": "DOWNLOAD NAMASTE WIFI FORM",
-      "packages": [
-        {
-          "package_type": "Unlimited Data only",
-          "plans": [
-            {
-              "plan_name": "Unlimited Basic",
-              "fup_per_day_gb": 10,
-              "throttling_speed_mbps": 2,
-              "pricing": {
-                "new_connection_tariff_nrs": 5999,
-                "subscription_tariff_nrs": 10499,
-                "half_yearly_tariff_nrs": 4999,
-                "yearly_tariff_nrs": 9499
-              }
-            },
-            {
-              "plan_name": "Unlimited Premium",
-              "fup_per_day_gb": 15,
-              "throttling_speed_mbps": 3,
-              "pricing": {
-                "new_connection_tariff_nrs": 8999,
-                "subscription_tariff_nrs": 16499,
-                "half_yearly_tariff_nrs": 7999,
-                "yearly_tariff_nrs": 15499
-              }
-            }
-          ]
-        },
-        {
-          "package_type": "Unlimited Data with Voice",
-          "plans": [
-            {
-              "plan_name": "Unlimited Basic with Voice",
-              "fup_per_day_gb": 10,
-              "throttling_speed_mbps": 2,
-              "pricing": {
-                "new_connection_tariff_nrs": 7499,
-                "subscription_tariff_nrs": 13499,
-                "half_yearly_tariff_nrs": 6499,
-                "yearly_tariff_nrs": 12499
-              },
-              "voice_benefits": {
-                "included_voice_minutes": {
-                  "nt_nt_minutes_per_month": 400,
-                  "off_net_minutes_per_month": 100
-                },
-                "notes": "Available for Half-Yearly and Yearly packages only"
-              }
-            },
-            {
-              "plan_name": "Unlimited Premium with Voice",
-              "fup_per_day_gb": 15,
-              "throttling_speed_mbps": 3,
-              "pricing": {
-                "new_connection_tariff_nrs": 10499,
-                "subscription_tariff_nrs": 19499,
-                "half_yearly_tariff_nrs": 9499,
-                "yearly_tariff_nrs": 18499
-              },
-              "voice_benefits": {
-                "included_voice_minutes": {
-                  "nt_nt_minutes_per_month": 400,
-                  "off_net_minutes_per_month": 100
-                },
-                "notes": "Available for Half-Yearly and Yearly packages only"
-              }
-            }
-          ]
-        }
-      ],
-      "notes": [
-        "The above-offered tariffs include TSC, VAT, and OT (Ownership Tax)",
-        "RJ11 cable and Telephone set required for voice service shall be arranged by the customer themselves"
-      ],
-      "terminology": {
-        "nt_nt": "Nepal Telecom to Nepal Telecom calls",
-        "off_net": "Calls to other mobile networks in Nepal",
-        "fup": "Fair Usage Policy - daily data limit before speed throttling",
-        "throttling_speed": "Internet speed after exceeding daily FUP limit",
-        "t_sc": "Telecommunication Service Charge",
-        "vat": "Value Added Tax",
-        "ot": "Ownership Tax"
-      }
-    }
-  }
+{"service_name": "Namaste Wi-Fi", "description": "The Namaste WiFi Package with bundled CPE device cost (included SIM)", "form_url": "DOWNLOAD NAMASTE WIFI FORM"}
+{"package_type": "Unlimited Data only", "plan_name": "Unlimited Basic", "fup_per_day_gb": 10, "throttling_speed_mbps": 2, "new_connection_tariff_nrs": 5999, "subscription_tariff_nrs": 10499, "half_yearly_tariff_nrs": 4999, "yearly_tariff_nrs": 9499}
+{"package_type": "Unlimited Data only", "plan_name": "Unlimited Premium", "fup_per_day_gb": 15, "throttling_speed_mbps": 3, "new_connection_tariff_nrs": 8999, "subscription_tariff_nrs": 16499, "half_yearly_tariff_nrs": 7999, "yearly_tariff_nrs": 15499}
+{"package_type": "Unlimited Data with Voice", "plan_name": "Unlimited Basic with Voice", "fup_per_day_gb": 10, "throttling_speed_mbps": 2, "new_connection_tariff_nrs": 7499, "subscription_tariff_nrs": 13499, "half_yearly_tariff_nrs": 6499, "yearly_tariff_nrs": 12499, "included_nt_nt_minutes_per_month": 400, "included_off_net_minutes_per_month": 100, "voice_notes": "Available for Half-Yearly and Yearly packages only"}
+{"package_type": "Unlimited Data with Voice", "plan_name": "Unlimited Premium with Voice", "fup_per_day_gb": 15, "throttling_speed_mbps": 3, "new_connection_tariff_nrs": 10499, "subscription_tariff_nrs": 19499, "half_yearly_tariff_nrs": 9499, "yearly_tariff_nrs": 18499, "included_nt_nt_minutes_per_month": 400, "included_off_net_minutes_per_month": 100, "voice_notes": "Available for Half-Yearly and Yearly packages only"}
+{"note": "The above-offered tariffs include TSC, VAT, and OT (Ownership Tax)", "additional_note": "RJ11 cable and Telephone set required for voice service shall be arranged by the customer themselves"}
+{"terminology_term": "nt_nt", "terminology_definition": "Nepal Telecom to Nepal Telecom calls"}
+{"terminology_term": "off_net", "terminology_definition": "Calls to other mobile networks in Nepal"}
+{"terminology_term": "fup", "terminology_definition": "Fair Usage Policy - daily data limit before speed throttling"}
+{"terminology_term": "throttling_speed", "terminology_definition": "Internet speed after exceeding daily FUP limit"}
+{"terminology_term": "t_sc", "terminology_definition": "Telecommunication Service Charge"}
+{"terminology_term": "vat", "terminology_definition": "Value Added Tax"}
+{"terminology_term": "ot", "terminology_definition": "Ownership Tax"}

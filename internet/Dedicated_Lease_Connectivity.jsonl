@@ -1,82 +1,17 @@
-{
-    "service_name": "Dedicated Lease Connectivity",
-    "service_provider": "Nepal Telecom (Nepal Doorsanchar Company Limited)",
-    "effective_date": "2082-05-01",
-    "note_on_taxes": "The above rates are exclusive of all applicable taxes.",
-    "services": [
-      {
-        "service_type": "Internet Leased Line Connectivity",
-        "description": "Leased Internet Connectivity over dedicated leased lines. Public IP will be provided.",
-        "application_process": "Please download the DATA/Internet/Intranet form and submit the duly filled form at nearest telecom office.",
-        "tariff_structure": "Symmetrical Bandwidth, Tariff per Month",
-        "rate_card": [
-          {
-            "bandwidth_mbps": "2",
-            "tariff_per_month_npr": "2500"
-          },
-          {
-            "bandwidth_mbps": "5",
-            "tariff_per_month_npr": "6000"
-          },
-          {
-            "bandwidth_mbps": "10",
-            "tariff_per_month_npr": "12000"
-          },
-          {
-            "bandwidth_mbps": "20",
-            "tariff_per_month_npr": "23000"
-          },
-          {
-            "bandwidth_mbps": "30",
-            "tariff_per_month_npr": "34500"
-          },
-          {
-            "bandwidth_mbps": "50",
-            "tariff_per_month_npr": "57500"
-          },
-          {
-            "bandwidth_mbps": "75",
-            "tariff_per_month_npr": "82500"
-          },
-          {
-            "bandwidth_range_mbps": "100-500",
-            "tariff_per_month_npr": "1000 per Mbps"
-          },
-          {
-            "bandwidth_range_mbps": ">500",
-            "tariff_per_month_npr": "1000 per Mbps"
-          }
-        ]
-      },
-      {
-        "service_type": "Intranet Leased Line Connectivity",
-        "description": "Leased Intranet Connectivity over dedicated leased lines. This service is used to connect remote sites of a corporate network over Nepal Telecom's IP Backbone.",
-        "inclusion": "FREE 100 Meters Fiber Cable",
-        "rate_card": [
-          {
-            "bandwidth_range_mbps": "1 - 10 Mbps",
-            "tariff_per_month_npr": "2400 / Mbps"
-          },
-          {
-            "bandwidth_range_mbps": "11 - 100 Mbps",
-            "tariff_per_month_npr": "2100 / Mbps"
-          },
-          {
-            "bandwidth_range_mbps": "> 100 Mbps",
-            "tariff_per_month_npr": "1800 / Mbps"
-          }
-        ]
-      }
-    ],
-    "contact_information": {
-      "office": "Kathmandu Regional Directorate",
-      "location": "Sundhara, Kathmandu",
-      "phone_numbers": [
-        "015339599",
-        "015346477",
-        "015339588"
-      ]
-    },
-    "data_source": "Official Nepal Telecom website (ntc.net.np), Dedicated Lease Connectivity page[citation:1]",
-    "data_retrieval_date": "2026-01-18"
-  }
+{"service_name": "Dedicated Lease Connectivity", "service_provider": "Nepal Telecom (Nepal Doorsanchar Company Limited)", "effective_date": "2082-05-01", "note_on_taxes": "The above rates are exclusive of all applicable taxes."}
+{"service_type": "Internet Leased Line Connectivity", "description": "Leased Internet Connectivity over dedicated leased lines. Public IP will be provided.", "application_process": "Please download the DATA/Internet/Intranet form and submit the duly filled form at nearest telecom office.", "tariff_structure": "Symmetrical Bandwidth, Tariff per Month"}
+{"bandwidth_mbps": "2", "service_category": "Internet Leased Line", "tariff_per_month_npr": "2500"}
+{"bandwidth_mbps": "5", "service_category": "Internet Leased Line", "tariff_per_month_npr": "6000"}
+{"bandwidth_mbps": "10", "service_category": "Internet Leased Line", "tariff_per_month_npr": "12000"}
+{"bandwidth_mbps": "20", "service_category": "Internet Leased Line", "tariff_per_month_npr": "23000"}
+{"bandwidth_mbps": "30", "service_category": "Internet Leased Line", "tariff_per_month_npr": "34500"}
+{"bandwidth_mbps": "50", "service_category": "Internet Leased Line", "tariff_per_month_npr": "57500"}
+{"bandwidth_mbps": "75", "service_category": "Internet Leased Line", "tariff_per_month_npr": "82500"}
+{"bandwidth_range_mbps": "100-500", "service_category": "Internet Leased Line", "tariff_per_month_npr": "1000 per Mbps"}
+{"bandwidth_range_mbps": ">500", "service_category": "Internet Leased Line", "tariff_per_month_npr": "1000 per Mbps"}
+{"service_type": "Intranet Leased Line Connectivity", "description": "Leased Intranet Connectivity over dedicated leased lines. This service is used to connect remote sites of a corporate network over Nepal Telecom's IP Backbone.", "inclusion": "FREE 100 Meters Fiber Cable"}
+{"bandwidth_range_mbps": "1 - 10 Mbps", "service_category": "Intranet Leased Line", "tariff_per_month_npr": "2400 / Mbps"}
+{"bandwidth_range_mbps": "11 - 100 Mbps", "service_category": "Intranet Leased Line", "tariff_per_month_npr": "2100 / Mbps"}
+{"bandwidth_range_mbps": "> 100 Mbps", "service_category": "Intranet Leased Line", "tariff_per_month_npr": "1800 / Mbps"}
+{"office": "Kathmandu Regional Directorate", "location": "Sundhara, Kathmandu", "phone_number_1": "015339599", "phone_number_2": "015346477", "phone_number_3": "015339588"}
+{"data_source": "Official Nepal Telecom website (ntc.net.np), Dedicated Lease Connectivity page", "data_retrieval_date": "2026-01-18"}

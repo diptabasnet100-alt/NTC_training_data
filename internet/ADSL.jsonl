@@ -1,35 +1,8 @@
-{
-    "service_name": "ADSL Service",
-    "description": "Broadband service being provided through ADSL 2+ technologies, a type of digital subscriber line (DSL).",
-    "availability": "Available in most PSTN Offices.",
-    "important_notices": [
-      {
-        "title": "Login Credentials",
-        "content": "Please check your payment receipt for username and password of customer care interface.",
-        "example": "Login ID: wsc_12345"
-      },
-      {
-        "title": "Password Security",
-        "content": "Since the default username and passwords are set to be the same, customers are requested to change it as soon as they log into the portal."
-      },
-      {
-        "title": "Router Configuration",
-        "content": "If you are using your ADSL Connection in Routing Mode, please change your authentication mode to AUTO or PAP in your ADSL router."
-      }
-    ],
-    "customer_portal": "Click here to access new customer self-care URL.",
-    "subscription_information": {
-      "billing_cycle": ["Monthly", "3-monthly"],
-      "speed": "5 mbps",
-      "registration_location": "Nepal Telecom counters where ADSL services are available",
-      "billing_structure": {
-        "port_charge": "Monthly port charge included in regular Telephone Bill",
-        "subscription_charge": "Paid at time of registration",
-        "usage_charges": "Recurring charges (monthly or 3-monthly) on prepaid basis"
-      }
-    },
-    "technical_support": {
-      "modem_vendors": "ADSL Modem Vendors",
-      "configuration": "ADSL Modem(CPE) Configuration"
-    }
-  }
+{"service_name": "ADSL Service", "description": "Broadband service being provided through ADSL 2+ technologies, a type of digital subscriber line (DSL).", "availability": "Available in most PSTN Offices."}
+{"title": "Login Credentials", "content": "Please check your payment receipt for username and password of customer care interface.", "example": "Login ID: wsc_12345"}
+{"title": "Password Security", "content": "Since the default username and passwords are set to be the same, customers are requested to change it as soon as they log into the portal."}
+{"title": "Router Configuration", "content": "If you are using your ADSL Connection in Routing Mode, please change your authentication mode to AUTO or PAP in your ADSL router."}
+{"customer_portal": "Click here to access new customer self-care URL."}
+{"billing_cycle": ["Monthly", "3-monthly"], "speed": "5 mbps", "registration_location": "Nepal Telecom counters where ADSL services are available"}
+{"port_charge": "Monthly port charge included in regular Telephone Bill", "subscription_charge": "Paid at time of registration", "usage_charges": "Recurring charges (monthly or 3-monthly) on prepaid basis"}
+{"modem_vendors": "ADSL Modem Vendors", "configuration": "ADSL Modem(CPE) Configuration"}
